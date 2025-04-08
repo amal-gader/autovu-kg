@@ -1,0 +1,7 @@
+venv
+humans_wikidata
+__pycache__
+.history
+codex
+.env
+data
