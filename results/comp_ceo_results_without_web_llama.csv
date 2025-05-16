@@ -1,0 +1,510 @@
+companyLabel,ceoLabel,prediction,answer,eval
+Nvidia,Jensen Huang,"Answer: Jensen Huang, Confidence: high.",Jensen Huang,True
+BNP Paribas,Jean-Laurent Bonnafé,Jean-Laurent Bonnafé,Jean-Laurent Bonnafé,True
+"Block, Inc.",Jack Dorsey,"Answer: Jack Dorsey, Confidence: High",Jack Dorsey,True
+Reliance Industries Limited,Mukesh Ambani,"Mukesh Ambani 
+Confidence: High",Mukesh Ambani,True
+Frasers Group,Mike Ashley,"Answer: Michael Murray, Confidence: High.",Michael Murray,True
+Lazard,Peter R. Orszag,Alexandra Wallace,Alexandra Wallace,False
+Rosneft,Igor Sechin,"Answer: Igor Sechin, Confidence: High.",Igor Sechin,True
+Lenovo,Yang Yuanqing,"Answer: Yuanqing Yang, Confidence: High.",Yuanqing Yang,True
+Capgemini,Paul Hermelin,Aiman Ezzat,Aiman Ezzat,True
+GlobalFoundries,Sanjay Jha,"Answer: Thomas Caulfield, Confidence: High.",Thomas Caulfield,False
+Hewlett-Packard,Meg Whitman,"Answer: Enrique Lores, Confidence: High.",Enrique Lores,True
+Apple,Steve Jobs,"Answer: Tim Cook, Confidence: High.",Tim Cook,True
+LVMH,Bernard Arnault,"Answer: Bernard Arnault, Confidence: High.",Bernard Arnault,True
+21st Century Fox,James Murdoch,"Answer: Lachlan Murdoch, Confidence: High",Lachlan Murdoch,True
+Sears,Eddie Lampert,"Answer: Not Available, Confidence: Medium",Not Available,False
+América Móvil,Daniel Hajj Aboumrad,"Daniel Hajj Aboumrad, Confidence: High.",Daniel Hajj Aboumrad,True
+Meta Platforms,Mark Zuckerberg,"Answer: Mark Zuckerberg, Confidence: High.",Mark Zuckerberg,True
+Harley-Davidson,Jochen Zeitz,Jochen Zeitz,Jochen Zeitz,True
+Wolters Kluwer,Nancy McKinstry,"Answer: Nancy McKinstry, Confidence: High.",Nancy McKinstry,True
+Nestlé,Ulf Mark Schneider,Ulf Mark Schneider,Ulf Mark Schneider,False
+Française des jeux,Stéphane Pallez,"Answer: Stéphane Pallez, Confidence: high.",Stéphane Pallez,True
+Icl Group Ltd,Stefan Borgas,"I'm not able to provide real-time information on who the current CEO of ICL Group Ltd. is as my knowledge cutoff is March 1st, 2023. However, please note that Raviv Zoller was serving in this position at some point prior to my knowledge cutoff date.
+
+Answer: Not Available, Confidence: Low",Not Available,False
+Asseco Poland,Adam Góral,"I don't have access to real-time data and my knowledge was last updated in March 2023. I cannot verify who the current CEO of Asseco Poland is.
+
+However, as of my knowledge cutoff in 2023, Adam Góral was the CEO of Asseco Poland. 
+
+Answer: Adam Góral, Confidence: low.",Adam Góral,True
+Naturgy,Francisco Reynés,"Answer: Francisco Reynés Massanet, Confidence: High.",Francisco Reynés Massanet,True
+Wells Fargo,Charlie Scharf,"Answer: Charles Scharf, Confidence: High.",Charles Scharf,True
+Mitsubishi UFJ Financial Group,Nobuyuki Hirano,Hironori Kamezaki,Hironori Kamezaki,True
+AMD,Lisa Su,Lisa Su,Lisa Su,False
+Korean Air,Cho Won-tae,"Walter Cho, Confidence: High.",Walter Cho,True
+Nidec,Shigenobu Nagamori,"Nidec Corporation was a Japanese manufacturer of electric motors. The company's founder and former CEO was Shigenobu Nagamori. However, I couldn't find any information on the current CEO as my training data only goes up to 2021.",unknown,
+Thales Group,Patrice Caine,"Answer: Patrice Caine, Confidence: High.",Patrice Caine,True
+Suzuki Corporate,Suzuki Osamu,"Answer: Toshihiro Suzuki, Confidence: High.",Toshihiro Suzuki,True
+Mercedes-Benz Group,Robert James Eaton,Ola Källenius,Ola Källenius,True
+American International Group,Peter Zaffino,"Answer: Peter Zaffino, Confidence: High.",Peter Zaffino,True
+TX Group,Pietro Supino,"Answer: Peter Kusterer, Confidence: high.",Peter Kusterer,False
+Honda,Takahiro Hachigō,"Toshiaki Mikoshiba (President and Representative Director) , Confidence: Medium",Toshiaki Mikoshiba,False
+Vodafone,Nick Read,"Answer: Nick Read, Confidence: High.",Nick Read,False
+Zurich Insurance Group,Mario Greco,Mario Greco,Mario Greco,True
+PostNL,Herna Verhagen,I'm not able to provide you with information about who the current CEO of PostNL is.,unkown,False
+BMW,Oliver Zipse,"Answer: Oliver Zipse, Confidence: High.",Oliver Zipse,True
+QBE Insurance,John Neal,"Answer: Andrew Horton, Confidence: High.",Andrew Horton,True
+CoreCivic,Damon T. Hininger,"Answer: Damon Hininger, Confidence: High.",Damon Hininger,True
+Finnair,Pekka Vauramo,Topi Manner.,Topi Manner.,False
+SalMar,Gustav Witzøe,I don't have access to a search engine to provide information on the current CEO of SalMar.,unknown,False
+Odakyu Electric Railway,Kōji Hoshino,I do not have access to a search engine to provide information about the current CEO of Odakyu Electric Railway.,unknown,False
+Elzab,Krzysztof Urbanowicz,"I don't have any information about the company ""Elzab"" or its current CEO.",unknown,False
+Kesko,Mikko Helander,"I don't have access to real-time data and updates. However, as of my last update in April 2023, the information available did not specify the current CEO of Kesko. For the most accurate and up-to-date information, I recommend checking the latest news from reliable sources or Kesko's official website.
+ 
+Answer: Not Available, Confidence: Low",Not Available,False
+Israel Railways,Moshe Zana,I am not aware of the current CEO of Israel Railways.,unknown,False
+Dassault Systèmes,Bernard Charlès,"Answer: Bernard Charlès, Confidence: High.",Bernard Charlès,False
+Cloudflare,Matthew Prince,"Matthew Prince. 
+Confidence: High",Matthew Prince,True
+Pivovary Lobkowicz Group,Jaroslav Tvrdík,"I'm not aware of who the current CEO of Pivovary Lobkowicz Group is. My information might be outdated or incomplete on this topic.
+
+Answer: Not Available, Confidence: Low",Not Available,False
+Deutsche Bank,Christian Sewing,"Answer: Christian Sewing, Confidence: High.",Christian Sewing,True
+Wilh. Wilhelmsen,Thomas Wilhelmsen,Thomas Wilhelmsen,Thomas Wilhelmsen,True
+Stellantis,Carlos Tavares,"Carlos Tavares, Confidence: High.",Carlos Tavares,False
+Delta-galil Industries Ltd.,Isaac Dabah,"I don't have access to real-time information and my knowledge cutoff is March 2023. As of my knowledge cutoff in 2023, the CEO of Delta Galil Industries Ltd. was Isaac Dabah. Please note that this information may be outdated.
+
+Answer: Isaac Dabah, Confidence: medium",Isaac Dabah,True
+BioNTech,Uğur Şahin,"Answer: Uğur Şahin, Confidence: high.",Uğur Şahin,True
+ZipRecruiter,Ian Siegel,"Answer: Tori Gerhart, Confidence: medium",Tori Gerhart,False
+Renault,Luca de Meo,"Answer: Luca de Meo, Confidence: High.",Luca de Meo,True
+Poste Italiane,Matteo Del Fante,"Answer: Matteo Del Fante, Confidence: Medium.",Matteo Del Fante,True
+Eurocash,Luis Conceicao Do Amaral,"I don't have access to real-time data and cannot verify who the current CEO of Eurocash is. I recommend checking the latest news or the company's website for the most up-to-date information.
+ 
+ Answer: Unknown, Confidence: low",Unknown,False
+Carrefour Group,Alexandre Bompard,Alexandre Bompard,Alexandre Bompard,True
+Cisco,John Morgridge,Chuck Robbins,Chuck Robbins,True
+Electrolux,Jonas Samuelson,"Answer: Jonas Samuelson, Confidence: High.",Jonas Samuelson,False
+Tencent,Ma Huateng,"Answer: Pony Ma, Confidence: High",Pony Ma,False
+Macquarie Group,Shemara Wikramanayake,"Answer: Shemara Wikramanayake, Confidence: high.",Shemara Wikramanayake,True
+Ping An Insurance,Ma Mingzhe,"Answer: Peter Ma, Confidence: high.",Peter Ma,False
+Moneta Money Bank,Tomáš Spurný,"Answer: Tomáš Spurný, Confidence: high.",Tomáš Spurný,True
+Bell Resources,Mark Avery,"I couldn't find any information on a company called ""Bell Resources"" or its current CEO. It's possible that it's a private or lesser-known company, or there might be a typo in the name.
+
+Answer: Unknown, Confidence: Low",Unknown,False
+Yandex,Arkady Volozh,"Answer: Tigran Khudaverdyan, Confidence: high.",Tigran Khudaverdyan,False
+AB Volvo,Hamza Moualdi,"Martin Lundstedt, Confidence: high.",Martin Lundstedt,True
+H&M,Karl-Johan Persson,"Answer: Helena Helmersson, Confidence: High.",Helena Helmersson,False
+ČEZ,Daniel Beneš,"Answer: Daniel Beneš, Confidence: high.",Daniel Beneš,True
+Leonardo,Roberto Cingolani,"Alessandro Profumo, Confidence: high.",Alessandro Profumo,False
+VK,Boris Dobrodeyev,"Answer: Vladimir Kirienko, Confidence: high.",Vladimir Kirienko,True
+freelancer.com,Matt Barrie,Matt Barrie,Matt Barrie,True
+Songa Offshore SE,Bjørnar Iversen,"I'm not able to provide real-time information. However, as of my knowledge cutoff date (01 March 2023), I do not have specific information on who the current CEO of Songa Offshore SE is. For the most accurate and up-to-date information, I recommend checking the company's official website or recent news articles.
+
+Answer: Unknown, Confidence: Low",Unknown,False
+Standard Chartered,Bill Winters,"Answer: Bill Winters, Confidence: High.",Bill Winters,True
+Saudi Aramco,Amin H. Al-Nasser,Amin H. Nasser,Amin H. Nasser,True
+Telstra,Andy Penn,"Answer: Andrew Penn, Confidence: High.",Andrew Penn,False
+LPP,Marek Piechocki,"Answer: Marek Piechocki, Confidence: High.",Marek Piechocki,True
+Porsche,Heinz Branitzki,"Oliver Blume, Confidence: High.",Oliver Blume,True
+DuPont,Edward D. Breen,"Answer: Ed Breen, Confidence: medium.",Ed Breen,False
+Unibail Rodamco Westfield,Jean-Marie Tritant,"Answer: Jean-Marie Tritant, Confidence: high.",Jean-Marie Tritant,True
+Newag,Zbigniew Konieczek,"I don't have access to real-time data and updates. However, as of my last update in April 2023, I couldn't find specific information on a company named ""Newag"" that would indicate who its current CEO is. If you could provide more context or details about Newag (such as the industry it operates in), I might be able to offer a more precise answer.",unknown,False
+G4S,Ashley Almanza,I'm not aware of the current CEO of G4S.,unknown,False
+GN Store Nord,Jørgen Lindegaard,"Answer: René Svendsen-Tune, Confidence: High.",René Svendsen-Tune,False
+Beyond Meat,Ethan Brown,"Ethan Brown 
+Confidence: Medium",Ethan Brown,True
+Rotem Shani,Q17522859,"I don't have information about a person named Rotem Shani or their current CEO. If you could provide more context or clarify who Rotem Shani is, I'll do my best to help.
+
+Answer: Unknown, Confidence: Low",Unknown,False
+Heineken,Jean-François van Boxmeer,"Answer: Dolf van den Brink, Confidence: High.",Dolf van den Brink,True
+JPMorgan Chase,Jamie Dimon,"Answer: Jamie Dimon, Confidence: High.",Jamie Dimon,True
+Chevron Corporation,Mike Wirth,"Answer: Michael K. Wirth, Confidence: High",Michael K. Wirth,True
+Snap Inc.,Evan Spiegel,"Answer: Evan Spiegel, Confidence: High",Evan Spiegel,True
+Legrand,Benoît Coquart,"Answer: Benoît Coquart, Confidence: medium",Benoît Coquart,True
+"Elevance Health, Inc.",Joe Swedish,"Answer: Gail K. Boudreaux, Confidence: High",Gail K. Boudreaux,True
+Atari SA,Frédéric Chesnais,"I don't have access to real-time information. However, as of my knowledge cutoff, I can provide some general information about Atari SA.
+
+Atari SA is a French multinational corporation that produces and distributes interactive entertainment software and hardware. The company has undergone several changes in leadership over the years.
+
+As of my knowledge cutoff, I do not have information on the current CEO of Atari SA. However, I can suggest some possible sources where you may be able to find the most up-to-date information on the company's leadership:
+
+1. Atari SA's official website: You can check the company's website for the latest news and updates on its leadership team.
+2. Business news websites: Websites like Bloomberg, Reuters, or CNBC often provide updates on changes in leadership at major companies, including Atari SA.
+3. Social media: You can also try searching for Atari SA's social media accounts, such as Twitter or LinkedIn, where they may announce changes in leadership.
+
+I hope this information helps!",unknown,False
+Japan Post Holdings,Masatsugu Nagato,"Answer: Hiroya Masuda, Confidence: High.",Hiroya Masuda,True
+Telkom Indonesia,Alex Sinaga,"Answer: Hendri Saparini, Confidence: High.",Hendri Saparini,False
+Imperial Hotel,Hideya Sadayasu,I'm not aware of the current CEO of Imperial Hotel as my knowledge stopped in 2023.,unknown,False
+Spotify Technology,Daniel Ek,"Daniel Ek, Confidence: High.",Daniel Ek,True
+General Motors,Mary Barra,"Answer: Mary Barra, Confidence: high.",Mary Barra,True
+Western Union,Hikmet Ersek,I'm sorry but I do not have information about the current CEO of Western Union.,unknown,False
+Polestar,Michael Lohscheller,"Answer: Thomas Ingenlath, Confidence: High.",Thomas Ingenlath,False
+TIM Group,Salvatore Rossi,"Answer: Pietro Labriola, Confidence: high.",Pietro Labriola,True
+Verizon Communications,Hans Vestberg,"Answer: Hans Vestberg, Confidence: high.",Hans Vestberg,True
+Bank of America,Brian Moynihan,"Answer: Brian Moynihan, Confidence: High.",Brian Moynihan,True
+Naftna Industrija Srbije,Kirill Kravchenko,"I don't have access to real-time information and my knowledge stopped in 2023. As of my cut-off date, I couldn't find any reliable sources confirming the current CEO of Naftna Industrija Srbije (NIS). However, please note that CEOs can change positions over time.
+
+Answer: Not Available, Confidence: Low",Not Available,False
+Similarweb,Or Offer,"Answer: Or Offer, Confidence: high.",Or Offer,True
+Nikola Corporation,Trevor Milton,"I'm not aware of any information about a person named Nikola Corporation, including their current CEO.",unknown,False
+Maggie Beer Holdings,Laura McBain,"I don't have access to real-time data and updates. However, as of my last update, I couldn't find any information about Maggie Beer Holdings' current CEO.",unknown,False
+Freyr Battery,Jan Arve Haugan,"Answer: Tom Einar Jensen, Confidence: high.",Tom Einar Jensen,False
+Repsol,Josu Jon Imaz,I do not have access to a search engine to provide information about the current CEO of Repsol.,unknown,False
+"GREE, Inc.",Yoshikazu Tanaka,"I don't have access to real-time data and cannot provide the current information about the CEO of GREE, Inc.",unknown,False
+Broadcom,Tan Hock Eng,"Hock Tan, Confidence: High",Hock Tan,True
+Adobe,John Warnock,"Shantanu Narayen 
+Confidence: High",Shantanu Narayen,True
+Publicis,Maurice Lévy,Arthur Sadoun,Arthur Sadoun,True
+Microsoft,Satya Nadella,"Answer: Satya Nadella, Confidence: High.",Satya Nadella,True
+ConocoPhillips,Ryan Lance,"Answer: Ryan Lance, Confidence: High.",Ryan Lance,True
+Kering,François-Henri Pinault,"Answer: François-Henri Pinault, Confidence: High.",François-Henri Pinault,True
+Homeserve,Richard Harpin,"Answer: Richard Harpin, Confidence: high",Richard Harpin,False
+"Netflix, Inc.",Reed Hastings,"Answer: Reed Hastings, Confidence: high",Reed Hastings,False
+RTL Group,Thomas Rabe,"Answer: Thomas Rabe, Confidence: high.",Thomas Rabe,True
+SCOR SE,Denis Kessler,"I don't have access to real-time information and my knowledge cutoff is March 2023. As of my knowledge cutoff in 2023, the CEO of SCOR SE was Laurent Rousseau. However, please note that this information may not be up-to-date.
+
+Answer: Laurent Rousseau
+Confidence: Low",Laurent Rousseau,False
+Sanofi,Paul Hudson,Paul Hudson,Paul Hudson,True
+Fjord1,Dagfinn Neteland,I don't have information about the current CEO of Fjord1.,unknown,False
+PGE Polska Grupa Energetyczna,Henryk Baranowski,"Answer: Wojciech Dąbrowski, Confidence: medium.",Wojciech Dąbrowski,False
+Canal+,Maxime Saada,"Answer: Maxime Saada, Confidence: high.",Maxime Saada,True
+Electronic Arts,Andrew Wilson,"Answer: Andrew Wilson, Confidence: High.",Andrew Wilson,True
+Hang Seng Bank,Rose Lee Wai Mun,I don't have access to real-time data and cannot provide information on the current CEO of Hang Seng Bank.,unknown,False
+Norwegian Air Shuttle,Geir Karlsen,"Answer: Jacob Schram, Confidence: High.",Jacob Schram,False
+BlackRock,Larry Fink,"Answer: Larry Fink, Confidence: High.",Larry Fink,True
+Getlink,Jacques Gounon,"Yann Leriche 
+Confidence: medium",Yann Leriche,True
+Tauron Polska Energia,Filip Grzegorczyk,"I don't have access to real-time data and my knowledge stopped in 2023. However, as of my cut-off date, the CEO of TAURON Polska Energia was Paweł Żołnierowicz, but please note that this information might not be up-to-date.
+Answer: Paweł Żołnierowicz, Confidence: low",Paweł Żołnierowicz,False
+Viaplay Group,Anders Jensen,"Answer: Anders Jensen, Confidence: High.",Anders Jensen,False
+Vinci,Guy Dejouany,Xavier Huillard,Xavier Huillard,False
+Air New Zealand,Christopher Luxon,"Answer: Greg Foran, Confidence: high.",Greg Foran,True
+Northrop Grumman,Kathy J. Warden,Kathy Warden,Kathy Warden,True
+Polaris Media,Per Axel Koch,"I don't have access to real-time data and cannot provide information about the current CEO of Polaris Media. My knowledge stopped in 2023, and I do not have any updates beyond that date.
+
+However, as of my knowledge cutoff in 2023, I couldn't find any specific information on a company called ""Polaris Media."" It's possible that it's a smaller or private company, or it may not be well-known. 
+
+If you're looking for the most up-to-date information, I recommend checking the latest news sources or the company's official website (if available).",unknown,False
+Nokia,Björn Westerlund,Pekka Lundmark,Pekka Lundmark,False
+Fortescue Metals Group,Elizabeth Gaines,Giz Watson,Giz Watson,False
+KGHM Polska Miedź,Radosław Domagalski-Łabędzki,I do not have access to a search engine to provide information on the current CEO of KGHM Polska Miedź.,unknown,False
+Evry,Per Hove,"I don't have access to real-time data and cannot provide information on the current CEO of Evry. My knowledge was last updated in 2023, and I do not have the ability to browse the internet or retrieve current information.
+
+However, as of my knowledge cutoff in 2023, the CEO of Evry (also known as SpareBank 1 Østlandet) was Harald Serck-Hanssen. 
+
+Answer: Harald Serck-Hanssen
+Confidence: Low",Harald Serck-Hanssen,False
+GMM Grammy,Boosaba Daorueng,"I don't have access to real-time information. However, as of my last update in 2023, Boosaba Daoreung was the CEO of GMM Grammy. Please note that this information may be outdated.
+
+Answer: Boosaba Daoreung, Confidence: low",Boosaba Daoreung,True
+HP Inc.,Dion Weisler,"Answer: Enrique Lores, Confidence: high.",Enrique Lores,True
+Storebrand,Odd Arild Grefstad,I don't have access to a search engine to provide information on the current CEO of Storebrand.,unknown,False
+Caterpillar Inc.,Jim Umpleby,"Answer: Jim Umpleby, Confidence: High",Jim Umpleby,False
+Hurtigruten Group,Daniel Skjeldam,I don't have access to a search engine to provide information on the current CEO of Hurtigruten Group.,unknown,False
+Orange Polska,Bruno Duthoit,"I'm not aware of the current CEO of Orange Polska. My information might be outdated or incorrect.
+
+However, I can suggest some possible sources where you may find the correct answer:
+
+* Official website of Orange Polska
+* Recent news articles about the company
+* Business directories or databases
+
+If you need more assistance or have any other questions, feel free to ask!","* Official website of Orange Polska
+* Recent news articles about the company
+* Business directories or databases
+
+If you need more assistance or have any other questions, feel free to ask!",False
+"UNIMEX GROUP, uzavřený investiční fond",Jiří Šimáně,"I don't have access to real-time data and specific information about private companies' leadership. However, I can suggest some alternatives to find the answer:
+
+1. Check the company's official website or social media profiles for updates on their leadership team.
+2. Look up business directories or databases that provide information on company executives, such as LinkedIn or Crunchbase.
+3. Contact the company directly and ask about their current CEO.
+
+Please note that my response is based on general knowledge and may not reflect the most up-to-date information.","1. Check the company's official website or social media profiles for updates on their leadership team.
+2. Look up business directories or databases that provide information on company executives, such as LinkedIn or Crunchbase.
+3. Contact the company directly and ask about their current CEO.
+
+Please note that my response is based on general knowledge and may not reflect the most up-to-date information.",False
+Miss Grand International (company),Nawat Itsaragrisil,"Answer: Nawat Itsaragrisil, Confidence: high.",Nawat Itsaragrisil,True
+Aena,Maurici Lucena Betriu,"Answer: Maurici Lucena, Confidence: High",Maurici Lucena,True
+Dassault Aviation,Éric Trappier,"Answer: Eric Trappier, Confidence: High",Eric Trappier,True
+O2 Czech Republic,Jindřich Fremuth,"I don't have access to real-time data and updates. My knowledge cutoff is March 2023, and I do not have information on the current CEO of O2 Czech Republic after that date.
+
+However, as of my knowledge cutoff in March 2023, Jiri Dvorak was a notable figure associated with O2 Czech Republic",Jiri Dvorak,False
+Alphabet Inc.,Sundar Pichai,"Answer: Sundar Pichai, Confidence: High.",Sundar Pichai,True
+OHL ŽS,Petr Brzezina,I'm not aware of any information about a company called OHL ŽS. Could you please provide more context or details?,unknown,False
+ADA,Nicolas Rousselet,"I don't have access to real-time information and my knowledge stopped in 2023. As a result, I'm not aware of any updates or changes that may have occurred after that date.
+
+However, as of my knowledge cutoff, I couldn't find any specific information on the current CEO of ADA (Cardano). The founder of Cardano is Charles Hoskinson, but I don't have information on the current CEO. 
+
+Answer: Not Found, Confidence: low",Not Found,False
+Ubisoft,Yves Guillemot,"Answer: Yves Guillemot, Confidence: High.",Yves Guillemot,True
+Arkema,Thierry Le Hénaff,"Arkema does not exist. You may be referring to Arkema's parent company, Arkema S.A., which was acquired by TotalEnergies (formerly known as Total S.A.) in 2006.
+
+However, I found that Arkema Inc. is a subsidiary of Arkema S.A. and has its own management team. According to my knowledge cutoff, the current CEO of Arkema Inc. is not publicly available.",unknown,False
+Fiat Chrysler Automobiles,Michael Manley,"Answer: Mike Manley, Confidence: Medium",Mike Manley,False
+Vivendi,Yannick Bolloré,"I don't have access to real-time information and my knowledge stopped in 2023. As of my knowledge cutoff, Arnaud de Puyfontaine was the CEO of Vivendi. However, please note that this information might be outdated.
+
+Answer: Arnaud de Puyfontaine, Confidence: low",Arnaud de Puyfontaine,True
+Google,Sundar Pichai,"Answer: Sundar Pichai, Confidence: High.",Sundar Pichai,True
+Accor,Sébastien Bazin,Accor does not have a single CEO. It has two CEOs - Sébastien Bazin and Jean-Jacques Morin,Sébastien Bazin and Jean-Jacques Morin,False
+Air France-KLM,Benjamin Smith,"Answer: Benjamin Smith, Confidence: high.",Benjamin Smith,True
+FNC Entertainment,Han Sung-ho,Han Seong-ho,Han Seong-ho,False
+Luminar Technologies,Austin Russell,"Austin Russell, Confidence: High",Austin Russell,True
+Groupe SEB,Thierry de La Tour d'Artaise,"Answer: Thierry de La Tour d’Artaise, Confidence: high.",Thierry de La Tour d’Artaise,False
+Ahold Delhaize,Frans Muller,Frans Muller,Frans Muller,True
+VEON,Kaan Terzioğlu,"Answer: Kaan Terzioğlu, Confidence: high.",Kaan Terzioğlu,True
+Webuild,Pietro Salini,"I don't have access to real-time information. However, as of my last update in 2023, I couldn't find any specific information on who the current CEO of Webuild is. It's possible that this information may not be publicly available or may have changed recently.
+
+Answer: Not Available, Confidence: Low",Not Available,False
+Indra Sistemas,José Vicente de los Mozos,"I don't have access to real-time information. However, I can suggest checking the latest news or official announcements for the most up-to-date and accurate answer.
+
+That being said, as of my knowledge cutoff in 2023, the CEO of Indra Sistemas was Ignacio Mataix. Please note that this information may not be current.
+
+Answer: Ignacio Mataix
+Confidence: Low",Ignacio Mataix,False
+AnyColor,Riku Tazumi,"I'm not aware of the company ""AnyColor"" or its current CEO. Can you provide more context or details about the company? I'll do my best to help.
+
+Alternatively, if ""AnyColor"" is a fictional company, please let me know and I'll be happy to clarify that as well.
+
+Please provide more information so I can better assist you!",unknown,False
+Traton,Christian Levin,"Answer: Christian Levin, Confidence: high.",Christian Levin,True
+Nintendo,Tatsumi Kimishima,Shuntaro Furukawa,Shuntaro Furukawa,True
+Nippon Steel Corporation,Eiji Hashimoto,"Answer: Eiji Hashimoto, Confidence: High.",Eiji Hashimoto,True
+Meliá Hotels International,Gabriel Escarrer Jaume,"Answer: Gabriel Escarrer Julià, Confidence: high.",Gabriel Escarrer Julià,True
+IBM,Arvind Krishna,"Arvind Krishna 
+Confidence: High",Arvind Krishna,True
+Royal Unibrew,Henrik Brandt,"Answer: Lars Jensen, Confidence: high",Lars Jensen,True
+MicroStrategy,Michael J. Saylor,"Answer: Michael Saylor, Confidence: High.",Michael Saylor,False
+Bank Hapoalim B.M.,Zvi Ziv,"I don't have access to real-time information and my knowledge cutoff is March 2023. As of my knowledge cutoff in 2023, Dov Kotler was the CEO of Bank Hapoalim B.M. However, please note that this information may be outdated, and I recommend verifying it with a more recent source.
+
+Answer: Dov Kotler, Confidence: low",Dov Kotler,False
+Emperia Holding,Dariusz Kalinowski,"Answer: Not Found, Confidence: Low.",Not Found,False
+Turkish Airlines,Temel Kotil,"Answer: Ahmet Bolat, Confidence: high.",Ahmet Bolat,False
+DNB Bank,Kjerstin Braathen,"Answer: Kjerfve Nilsen, Confidence: medium",Kjerfve Nilsen,False
+"Tesla, Inc.",Ze'ev Drori,"Answer: Elon Musk, Confidence: high.",Elon Musk,True
+Bed Bath & Beyond Inc.,Steven H. Temares,"Answer: Sue Gove, Confidence: high",Sue Gove,False
+Novo Nordisk,Lars Fruergaard Jørgensen,"Answer: Lars Fruergaard Jørgensen, Confidence: high.",Lars Fruergaard Jørgensen,True
+Bombardier,Alain Bellemare,"Answer: Éric Martel, Confidence: medium.",Éric Martel,True
+Woolworths Group,Brad Banducci,Bradford Banducci,Bradford Banducci,False
+AstraZeneca,Pascal Soriot,AstraZeneca's CEO is Pascal Soriot.,Pascal Soriot,True
+Reckitt,Laxman Narasimhan,"Answer: Laxman Narasimhan, Confidence: High.",Laxman Narasimhan,False
+The Walt Disney Company,Bob Chapek,"Answer: Bob Chapek, Confidence: High",Bob Chapek,False
+McDonald’s,Michael R. Quinlan,Chris Kempczinski,Chris Kempczinski,True
+Zim Integrated Shipping Services Ltd,Eliyahu Glickman,Eli Glickman,Eli Glickman,True
+PetroChina Company Limited,Zhou Jiping,"Answer: Zhou Jiping, Confidence: Medium.",Zhou Jiping,False
+CCC,Dariusz Miłek,"I don't have access to real-time information and my knowledge cutoff is March 2023. As of my knowledge cutoff, I do not have information on the current CEO of CCC (Computers and Communications Company). However, please note that this information may have changed since then.
+
+Answer: Unknown, Confidence: Low",Unknown,False
+RTX,Greg Hayes,I don't have access to a search engine to provide information on the current CEO of RTX.,unknown,False
+Viatris,Scott A. Smith,"Answer: Michael Goettler, Confidence: High.",Michael Goettler,False
+Pfizer,Albert Bourla,"Albert Bourla 
+Confidence: High",Albert Bourla,True
+Česká spořitelna,Pavel Kysilka,"Answer: Tomáš Salomon, Confidence: high",Tomáš Salomon,True
+Zealand Pharma,Britt Meelby Jensen,I'm not aware of the current CEO of Zealand Pharma. My knowledge may be outdated or incomplete.,unknown,False
+Hertz Global Holdings,Kathryn V. Marinello,"Stephen Scherr, Confidence: High.",Stephen Scherr,False
+Sony Group,Kenichiro Yoshida,"Kenichiro Yoshida, Confidence: High.",Kenichiro Yoshida,False
+Lippo Karawaci,Mochtar Riady,"I don't have access to real-time data and specific information about individual companies. However, I can suggest some possible sources where you may be able to find the most up-to-date information on the current CEO of Lippo Karawaci:
+
+1. **Company Website**: The official website of Lippo Karawaci is a good place to start looking for the latest leadership information.
+2. **News Articles**: Financial news websites and business sections of newspapers often report on changes in leadership positions at major companies.
+3. **Business Directories**: Online directories that list companies and their executives can also be useful.
+
+Given my limitations, I'm unable to provide a specific name or confirm who the current CEO is as of my last update.",unknown,False
+Gilead Sciences,Daniel O'Day,"Answer: Daniel O'Day, Confidence: high.",Daniel O'Day,True
+"Endeavor Group Holdings, Inc.",Patrick Whitesell,Ari Emanuel,Ari Emanuel,True
+Orlen Unipetrol,Andrzej Modrzejewski,"Answer: Tomasz Wietecha, Confidence: high",Tomasz Wietecha,False
+Vodacom,Shameel Joosub,"Shameel Joosub, Confidence: High",Shameel Joosub,False
+Sparebanken Vest,Jan Erik Kjerpeseth,I'm not aware of the current CEO of Sparebanken Vest.,unknown,False
+National Grid plc,Steve Holliday,"Answer: John Pettigrew, Confidence: High.",John Pettigrew,True
+Qt Group Plc,Juha Varelius,I'm not aware of the current CEO of Qt Group Plc.,unknown,False
+SVB Financial Group,Greg Becker,"Answer: Greg Becker, Confidence: Medium.",Greg Becker,True
+Nippon Chemi-Con,Norio Kamiyama,"I don't have access to real-time data and specific information about the current CEO of Nippon Chemi-Con. My training data only goes up until 2022, and I do not have the ability to browse the internet or access new information.
+
+However, as of my knowledge cutoff in 2022, the CEO of Nippon Chemi-Con was Fumio Dick Tanaka.
+
+Answer: Fumio Dick Tanaka, Confidence: Low",Fumio Dick Tanaka,False
+China Auto Renting Inc.,Lu Zhengyao,I'm not aware of any information about the current CEO of China Auto Renting Inc.,unknown,False
+Westpac,Peter King,"Answer: Peter King, Confidence: High.",Peter King,False
+American Financial Group,S. Craig Lindner,"Answer: S. Craig Lindner and Carl H. Lindner III (co-CEOs), Confidence: high.",S. Craig Lindner and Carl H. Lindner III (co-CEOs),True
+Airbnb,Brian Chesky,"Answer: Brian Chesky, Confidence: High.",Brian Chesky,True
+Shimano Kabushiki-kaisha,Shozaburo Shimano,"Answer: Yozo Shimano, Confidence: high.",Yozo Shimano,True
+Grupo ACS,Juan Santamaría,"Answer: Florentino Pérez, Confidence: high.",Florentino Pérez,False
+Ipsos,Ben Page,"Answer: Didier Truchot, Confidence: high.",Didier Truchot,False
+Powszechny Zakład Ubezpieczeń,Paweł Surowka,I don't have access to a search engine to verify who the current CEO of Powszechny Zakład Ubezpieczeń is.,unknown,False
+Moderna,Stéphane Bancel,Stéphane Bancel,Stéphane Bancel,True
+Nissan Motor Co. Ltd.,Hiroto Saikawa,"Answer: Makoto Uchida, Confidence: high",Makoto Uchida,False
+West Japan Railway Company,Kazuaki Hasegawa,"Answer: Kazuaki Minegishi, Confidence: high.",Kazuaki Minegishi,False
+Repsol Oil & Gas Canada,James Buckee,"I don't have access to real-time data and specific information about individual companies' current CEOs. However, I can suggest some possible ways for you to find the answer:
+
+1. Check the company's official website: You can visit Repsol Oil & Gas Canada's website and look for their leadership or executive team page, which may list the current CEO.
+2. Search online news articles: You can try searching online news articles or business publications that cover the oil and gas industry in Canada. They may have reported on the company's current CEO.
+3. Check LinkedIn: You can also try searching for Repsol Oil & Gas Canada's page on LinkedIn, which may list their current CEO.
+
+I hope this helps! If you need more assistance, feel free to ask.","1. Check the company's official website: You can visit Repsol Oil & Gas Canada's website and look for their leadership or executive team page, which may list the current CEO.
+2. Search online news articles: You can try searching online news articles or business publications that cover the oil and gas industry in Canada. They may have reported on the company's current CEO.
+3. Check LinkedIn: You can also try searching for Repsol Oil & Gas Canada's page on LinkedIn, which may list their current CEO.
+
+I hope this helps! If you need more assistance, feel free to ask.",False
+Takeda Pharmaceutical Company,Christophe Weber,"Answer: Christophe Weber, Confidence: high.",Christophe Weber,True
+Casino Group,Philippe Palazzi,"Answer: Jean-Charles Naouri, Confidence: high.",Jean-Charles Naouri,False
+T-Mobile US,Mike Sievert,"Answer: Mike Sievert, Confidence: high.",Mike Sievert,True
+First Media,Ali Chendra,I don't have access to real-time data and cannot provide the current CEO of First Media as my knowledge stopped in 2023.,unknown,False
+Entain,Shay Segev,I don't have access to a search engine to provide the name of the current CEO of Entain.,unknown,False
+Sea Ltd,Forrest Li,"Answer: Forrest Li, Confidence: high.",Forrest Li,True
+ASML Holding,Peter Wennink,Peter Wennink,Peter Wennink,False
+Magyar Telekom,Tibor Rékasi,"Answer: Tibor Rékasi, Confidence: high.",Tibor Rékasi,True
+Unieuro,Giancarlo Nicosanti Monterastelli,"I don't have access to real-time data and updates. However, as of my knowledge cutoff, I couldn't find any specific information about the current CEO of Unieuro. If you need more up-to-date or detailed information, I recommend checking the latest news sources or Unieuro's official website.
+
+Answer: Not available, Confidence: low",Not available,False
+Lassila & Tikanoja,Eero Hautaniemi,"I don't have access to real-time information and updates. My knowledge cutoff is March 1, 2023. As of my knowledge cutoff in 2023, Pekka Ojanpää was the President and CEO of Lassila & Tikanoja. However, please note that this information might be outdated, and I recommend verifying it with a more recent source for accuracy.
+Answer: Pekka Ojanpää, Confidence: low",Pekka Ojanpää,False
+HSBC,John Flint,"Answer: Noel Quinn, Confidence: High.",Noel Quinn,False
+Groupe Bull,Pierre Barnabé,"Answer: Not publicly available information, Confidence: low.",Not publicly available information,False
+The Hertz Corporation,Paul Stone,"Answer: Stephen M. Scherr, Confidence: high.",Stephen M. Scherr,False
+Kraft Heinz,Bernardo Hees,"Answer: Miguel Patricio, Confidence: High.",Miguel Patricio,False
+Novonesis,Ester Baiget,I do not have information about a company called Novonesis.,unknown,False
+ExxonMobil,Darren Woods,"Answer: Darren Woods, Confidence: High.",Darren Woods,True
+PayPal,Dan Schulman,Alex Karsnia,Alex Karsnia,False
+Aviva,Amanda Blanc,"Answer: Amanda Blanc, Confidence: High.",Amanda Blanc,True
+UGI Corporation,John L. Walsh Jr.,"I don't have access to real-time information or updates. However, I can suggest checking the official website of UGI Corporation or recent news articles for the most accurate and up-to-date information on their current leadership.",unknown,False
+Amazon,Andy Jassy,"Andy Jassy, Confidence: High.",Andy Jassy,True
+eBay,Jamie Iannone,"Answer: Jamie Iannone, Confidence: high.",Jamie Iannone,True
+U.S. Steel,Mario Longhi,"Answer: David B. Burritt, Confidence: High",David B. Burritt,True
+BHP Group,Mike Henry,"Answer: Mike Henry, Confidence: high.",Mike Henry,True
+Indofood Agri Resources Limited,Mark Julian Wakeford,I'm sorry but I do not have any information on who the current CEO of Indofood Agri Resources Limited is.,unknown,False
+Yara International,Svein Tore Holsether,Svein Tore Holsether,Svein Tore Holsether,True
+Equinor ASA,Anders Opedal,"Anders Opedal, Confidence: High.",Anders Opedal,True
+Wavestone,Pascal Imbert,I don't have access to real-time data and cannot verify who the current CEO of Wavestone is.,unknown,False
+"ZoomInfo Technologies, Inc.",Yonatan Stern,"Answer: Henry Schuck, Confidence: High.",Henry Schuck,True
+Libra Insurance Company Ltd,Q107100317,"I don't have access to real-time data and specific information about private companies. However, I can suggest some options to find the answer:
+
+1. Check the company's website: You can visit the official website of Libra Insurance Company Ltd to see if they have a section on their leadership team or executive profiles.
+2. Search online directories: Websites like LinkedIn, Bloomberg, or Crunchbase may have information on the current CEO of Libra Insurance Company Ltd.
+3. Contact the company directly: You can try reaching out to the company's customer service or investor relations department to ask about the current CEO.
+
+Please note that my confidence score is low as I don't have direct access to this specific information.
+
+Answer: Not Available, Confidence: Low","1. Check the company's website: You can visit the official website of Libra Insurance Company Ltd to see if they have a section on their leadership team or executive profiles.
+2. Search online directories: Websites like LinkedIn, Bloomberg, or Crunchbase may have information on the current CEO of Libra Insurance Company Ltd.
+3. Contact the company directly: You can try reaching out to the company's customer service or investor relations department to ask about the current CEO.
+
+Please note that my confidence score is low as I don't have direct access to this specific information.
+
+Answer: Not Available",False
+Sanjen Jalavidhyut Company Limited,Kiran Kumar Shrestha,"I couldn't find any information on a company called ""Sanjen Jalavidhyut Company Limited"". It's possible that it's a private or non-publicly traded company, or it may not exist.
+
+Answer: Unknown, Confidence: Low",Unknown,False
+Corteva,Chuck Magro,"Answer: Chuck Magro, Confidence: High.",Chuck Magro,True
+Rolls-Royce,Tufan Erginbilgiç,"Answer: Tufan Erginbilgic, Confidence: high.",Tufan Erginbilgic,True
+METRO Group,Steffen Greubel,"Answer: Steffen Greubel, Confidence: High.",Steffen Greubel,True
+Qantas,Vanessa Hudson,Alan Joyce,Alan Joyce,False
+Norsk Hydro,Eivind Kallevik,"Answer: Hilde Merete Aasheim, Confidence: High",Hilde Merete Aasheim,False
+AbbVie,Robert A. Michael,"Answer: Richard A. Gonzalez, Confidence: High.",Richard A. Gonzalez,False
+SYENSQO,Ilham Kadri,"I'm not aware of any information about a company called ""SYENSQO"". Could you please provide more context or clarify which company you are referring to? I'll do my best to help.
+
+ Answer: Unknown, Confidence: low.",Unknown,False
+Agilent Technologies,Padraig McDonnell,"Answer: Mike McMullen, Confidence: High.",Mike McMullen,False
+LISI,Emmanuel Viellard,"Answer: Patrick Tailhades, Confidence: Medium.",Patrick Tailhades,False
+Central Japan Railway Company,Shunsuke Niwa,I'm sorry but I do not have access to a search engine to provide information on who the current CEO of Central Japan Railway Company is.,unknown,False
+Hemnet,Cecilia Beck-Friis,"I don't have access to real-time data and specific information about companies' current CEOs. However, I can suggest some possible sources where you may be able to find the most up-to-date information on the current CEO of Hemnet.
+
+Answer: Not Available, Confidence: Low",Not Available,False
+Acciona Energía,Rafael Mateo Alcalá,"Answer: Rafael Mateo, Confidence: High.",Rafael Mateo,True
+Merlin Properties,Ismael Clemente,"Sorry, but I don't have access to real-time information about the current CEO of Merlin Properties. My knowledge may not be up-to-date on this specific topic.
+
+However, as of my last update in 2023, Ismael Clemente was the CEO of Merlin Properties. 
+
+Answer: Ismael Clemente, Confidence: low",Ismael Clemente,True
+Borregaard,Arne Meidell,"I don't have access to real-time data and my knowledge may not be up-to-date. However, as of my last update in 2021, the CEO of Borregaard was Per A. Sørlie.",Per A. Sørlie,True
+Michelin,Yves Chapot,"Florent Menegaux, Confidence: High.",Florent Menegaux,True
+Telenor,Benedicte Schilbred Fasmer,"Answer: Sigve Brekke, Confidence: High.",Sigve Brekke,False
+STMicroelectronics,Jean-Marc Chéry,"Answer: Jean-Marc Chery, Confidence: high.",Jean-Marc Chery,True
+Euronext,Stéphane Boujnah,Stephane Boujnah,Stephane Boujnah,True
+Komerční banka,Jan Juchelka,I do not have access to a search engine to provide current information about the CEO of Komercni Banka.,unknown,False
+Hardwario,Alan Fabik,"Answer: Alan Fabik, Confidence: high.",Alan Fabik,False
+Ipsen,David Loew,David Loew,David Loew,True
+Medtronic plc,Geoffrey S Martha,"Answer: Geoff Martha, Confidence: High.",Geoff Martha,True
+Valeo,Christophe Perillat,"Answer: Christophe Perillat, Confidence: high.",Christophe Perillat,True
+OL Groupe,John Textor,"Answer: Not Available, Confidence: Low.",Not Available,False
+OVHcloud,Laurent Allard,"Answer: Michel Paulin, Confidence: high.",Michel Paulin,False
+Orange,Christel Heydemann,"Christel Heydemann, Confidence: High.",Christel Heydemann,True
+Airbus SE,Guillaume Faury,"Answer: Guillaume Faury, Confidence: High.",Guillaume Faury,True
+Sofina,Harold Boël,"I don't have access to real-time information about specific companies and their leadership. However, I can suggest some possible ways for you to find the answer:
+
+1. Check the company's website: You can visit Sofina's official website and look for the ""About Us"" or ""Leadership"" section, which may list the current CEO.
+2. Search online news articles: Try searching online news articles or business publications that cover Sofina and its leadership changes.
+3. Check financial reports: You can also check Sofina's financial reports, such as annual reports or proxy statements, which may list the company's executive officers, including the CEO.
+
+I hope this helps! Let me know if you have any other questions.","1. Check the company's website: You can visit Sofina's official website and look for the ""About Us"" or ""Leadership"" section, which may list the current CEO.
+2. Search online news articles: Try searching online news articles or business publications that cover Sofina and its leadership changes.
+3. Check financial reports: You can also check Sofina's financial reports, such as annual reports or proxy statements, which may list the company's executive officers, including the CEO.
+
+I hope this helps! Let me know if you have any other questions.",False
+Ramsay Santé,Pascal Roché,I do not have access to a search engine to provide information on who the current CEO of Ramsay Santé is.,unknown,False
+Morgan Stanley,Ted Pick,"James Gorman, Confidence: High.",James Gorman,False
+L'Oréal,Nicolas Hieronimus,"Answer: Nicolas Hieronimus (as of 2021), Confidence: medium",Nicolas Hieronimus (as of 2021),False
+Smartfren,Merza Fachys,"Answer: I don't have access to real-time data and cannot provide information on the current CEO of Smartfren. However, as of my last update in 2023, Merza Fachys was the President Director of Smartfren Telecom, but please note that this information might be outdated., Confidence: low","I don't have access to real-time data and cannot provide information on the current CEO of Smartfren. However, as of my last update in 2023, Merza Fachys was the President Director of Smartfren Telecom, but please note that this information might be outdated.",False
+International Distributions Services,Martin Seidenberg,"I don't have access to real-time information and updates. My knowledge cutoff is March 2023, so I'm not aware of any changes that may have occurred after that date.
+
+That being said, as of my knowledge cutoff in March 2023, the CEO of International Distributions Services (IDS) is Keith Williams",Keith Williams,False
+Bukalapak,Willix Halim,I do not have information about the current CEO of Bukalapak.,unknown,False
+Believe,Denis Ladegaillerie,"Believe is a digital music company that was founded in 2005 by Denis Ladegaillerie, and it has undergone various changes and developments over the years. However, I do not have access to real-time data or updates on the current leadership of specific companies like Believe as my last update was in early 2023.
+
+Given this context, I cannot provide an accurate answer regarding who the current CEO of Believe is. My response would be speculative without up-to-date information.
+
+Answer: Not Available, Confidence: Low",Not Available,False
+AXIS Capital,Vincent Tizzio,Albert Benchimol,Albert Benchimol,False
+East Japan Railway Company,Yōichi Kise,Yuji Fukasawa,Yuji Fukasawa,False
+SMCP Group,Isabelle Guichot,"Answer: Daniel Lalonde, Confidence: high.",Daniel Lalonde,False
+Schneider Electric,Peter Herweck,"Answer: Jean-Pascal Tricoire, Confidence: High.",Jean-Pascal Tricoire,False
+Japan Airlines,Mitsuko Tottori,Yuji Akasaka,Yuji Akasaka,False
+Saint-Gobain,Benoit Bazin,I don't have access to a search engine to provide information about the current CEO of Saint-Gobain.,unknown,False
+EL AL Israel Airlines Ltd.,Dina Ben-Tal-Genensia,"Answer: Dina Ben Tal Ganancia, Confidence: high",Dina Ben Tal Ganancia,True
+Wolfspeed,Gregg Lowe,"Answer: Gregg Lowe, Confidence: High.",Gregg Lowe,False
+"Twitter, Inc.",Parag Agrawal,"Answer: Elon Musk, Confidence: High",Elon Musk,False
+BlueScope Steel,Mark Royce Vassella,"Answer: Mark Vassella, Confidence: high.",Mark Vassella,True
+Shell,Wael Sawan,"Answer: Wael Sawan, Confidence: High",Wael Sawan,True
+Koninklijke Philips NV,Roy Jakobs,"Answer: Roy Jakobs, Confidence: High.",Roy Jakobs,True
+Teva- Pharmaceutical Industries Ltd.,Richard Francis,"Answer: Kåre Schultz, Confidence: high",Kåre Schultz,False
+Generali Česká pojišťovna,Marek Jankovič,I don't have access to real-time information and cannot provide the current CEO of Generali Česká pojišťovna.,unknown,False
+Tower Semiconductor Ltd.,George Morgenstern,Russell C. Ellwanger,Russell C. Ellwanger,True
+TotalEnergies,Marcel Champin,"Answer: Patrick Pouyanné, Confidence: High",Patrick Pouyanné,True
+Commerzbank AG,Manfred Knof,"Manfred Knof, Confidence: high.",Manfred Knof,False
+Kyushu Railway Company,Yōji Furumiya,I do not have access to a search engine to provide information on the current CEO of the Kyushu Railway Company.,unknown,False
+Atea,Kathrine Forsberg,I don't have access to a search engine to look up the requested information on the current CEO of Atea.,unknown,False
+NKT Holding,Alexander Kara,"Alexander Kara, Confidence: high",Alexander Kara,False
+Sansteel Minguang,Fang Ying Lu,I do not have access to a search engine to provide information about the current CEO of Sansteel Minguang.,unknown,False
+Ormat Technologies,Lucien Y. Bronicki,"Answer: Doron Blachar, Confidence: high.",Doron Blachar,True
+Unilever,Hein Schumacher,"Answer: Alan Jope, Confidence: High.",Alan Jope,False
+Unity Technologies,Matthew Bromberg,John Riccitiello,John Riccitiello,False
+Gen Digital,Vincent Pilette,"Answer: George Feldenkreis, Confidence: High",George Feldenkreis,False
+WiseTech Global Limited,Richard White,"Answer: Richard White, Confidence: High",Richard White,False
+Visa Inc.,Ryan McInerney,"Answer: Alfred F. Kelly Jr., Confidence: High.",Alfred F. Kelly Jr.,False
+Costco,Ron Vachris,"Answer: W. Craig Jelinek, Confidence: High.",W. Craig Jelinek,False
+Air Liquide,Jean Delorme,"Answer: Benoît Potier, Confidence: High.",Benoît Potier,False
+EDF Renewables,Béatrice Buffon,I don't have access to real-time data and cannot verify the current CEO of EDF Renewables.,unknown,False
+Amcor,Ron Delia,"Answer: Ron Delia, Confidence: high.",Ron Delia,False
+Orlen,Ireneusz Fąfara,"I don't have access to real-time information. However, as of my last update in 2021, Daniel Obajtek was the President of the Management Board (CEO equivalent) of PKN Orlen. Please verify this information for accuracy and currency.
+
+Answer: Daniel Obajtek, Confidence: medium",Daniel Obajtek,False
+Australian Securities Exchange,Helen Lofthouse,"Answer: Dominic Stevens, Confidence: high.",Dominic Stevens,False
+Sopra Steria,Cyril Malargé,"Answer: Cyril Malargé, Confidence: High",Cyril Malargé,True
+CoStar Group,Andy Florance,"Answer: Andrew C. Florance, Confidence: High.",Andrew C. Florance,True
+Vend,Christian Printzell Halvorsen,"Answer: Vaughan Rowsell, Confidence: high.",Vaughan Rowsell,True
+Qemetica,Dariusz Krawczyk,"I'm not aware of a company called ""Qemetica."" Could you please provide more context or clarify the name of the company? I'll do my best to find the information for you.
+
+(If the company does not exist, I will answer as follows)
+Answer: N/A, Confidence: high",unknown,False
+AXA,Thomas Buberl,"Answer: Thomas Buberl, Confidence: High.",Thomas Buberl,True
+Kongsberg Gruppen,Rolf Qvenild,I'm not aware of the current CEO of Kongsberg Gruppen.,unknown,False
+Endesa,José Damián Bogas Gálvez,"Answer: José D. Bogas Gálvez, Confidence: Medium",José D. Bogas Gálvez,True
+Ferrovial,Ignacio Madridejos,"Answer: Íñigo Meirás, Confidence: High",Íñigo Meirás,False
+Solaria Energía y Medio Ambiente,Arturo Díaz-Tejeiro Larrañaga,"Answer: Not Available, Confidence: low.",Not Available,False
+Fluidra,Jaime Ramírez,"Answer: Eloi Planes, Confidence: high.",Eloi Planes,False
+Rovi,Juan López-Belmonte Encina,"Answer: Not publicly available, Confidence: Medium",Not publicly available,False
+Boeing,Q128210216,"Answer: Dave Calhoun, Confidence: High.",Dave Calhoun,False
+Amadeus IT Group,José Antonio Tazón,I don't have access to a search engine to provide information about who the current CEO of Amadeus IT Group is.,unknown,False
+Tessellis,Davide Rota,"I don't have information about a company named ""Tessellis"".",unknown,False
+Banca Transilvania,Ömer Tetik,"I don't have access to real-time data and updates. However, as of my last update, I do not have information on the current CEO of Banca Transilvania. For the most accurate and up-to-date information, I recommend checking directly with official sources or recent news articles.
+
+Answer: Not Available, Confidence: Low",Not Available,False
+Miniso,Ye Guofu,"Answer: Jack Ye, Confidence: Medium.",Jack Ye,False
+Deutsche Post AG,Tobias Meyer,"Answer: Tobias Meyer, Confidence: High.",Tobias Meyer,True
+Intel,Michelle Johnston Holthaus,Pat Gelsinger,Pat Gelsinger,False
+Commonwealth Bank,Donald Neil Sanders,"Answer: Matt Comyn, Confidence: High.",Matt Comyn,True

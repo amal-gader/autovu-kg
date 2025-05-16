@@ -1,0 +1,328 @@
+organizationLabel,positionLabel,officeholderLabel,confidence,answer,eval
+African Development Bank,Akinwumi Adesina,Akinwumi Adesina,high,Akinwumi Adesina,True
+African Paralympic Committee,President of the African Paralympic Committee,Leonel da Rocha Pinto,high,Samson Deen,True
+Afro-Asian People's Solidarity Organization,Anwar Sadat,Anwar Sadat,high,Mohamed Youssef,False
+Aga Khan Development Network,Ismaili imam,Ismaili imam,high,Shah Karim al-Husayni (Aga Khan IV),True
+All European Academies,Antonio Loprieno,Antonio Loprieno,high,Antonio Loprieno,True
+Alliance of Passenger Rail New Entrants in Europe,Erich Forster,Erich Forster,medium,Andreas Bergmann,False
+Alliance of Small Island States,Ahmed Sareer,Ahmed Sareer,low,Jamaica,False
+American Association for the Advancement of Science,Eloise E. Clark,Eloise E. Clark,high,Dr. Sudip Parikh,False
+Andean Community,Secretary-General of the Andean Community,Guillermo Fernández de Soto,high,Gustavo Petro,False
+Anti-Bolshevik Bloc of Nations,Yaroslav Stetsko,Yaroslav Stetsko,low,Yaroslav Stetsko,False
+Arab League,Secretary General of the Arab League,Secretary General of the Arab League,medium,Ahmed Aboul Gheit,True
+Arab Union of Judges,Ahmad al-Ashqar,Ahmad al-Ashqar,Low,Unknown,False
+Asian Athletics Association,Dahlan Jumaan al-Hamad,Dahlan Jumaan al-Hamad,medium,Dahlan Al Hamad,True
+Asian Buddhist Conference for Peace,Gabji Demberel Choijamts,Gabji Demberel Choijamts,medium,Ven. Dr. Khammai Dhammasami,False
+Asian Development Bank,Masato Kanda,Masato Kanda,high,Masatsugu Asakawa,False
+Asian Football Confederation,Salman Bin Ibrahim Al-Khalifa,Salman Bin Ibrahim Al-Khalifa,medium,Shaikh Salman bin Ebrahim Al Khalifa,True
+Asian Hockey Federation,Abdullah of Pahang,Abdullah of Pahang,high,Dilip Tirkey,False
+Asian Infrastructure Investment Bank,Jin Liqun,Jin Liqun,high,Jin Liqun,True
+Asian Parliamentary Assembly,Mustafa Şentop,Mustafa Şentop,Medium,Mohammad Reza Aref,False
+Asian Shooting Confederation,Salman Sabah Al-Salem Al-Homoud Al-Sabah,Salman Sabah Al-Salem Al-Homoud Al-Sabah,medium,Sheikh Salman bin Mohammed Al-Sabah,True
+Assembly of European Regions,Albert Castellanos Maduell,Albert Castellanos Maduell,medium,Magnus Berntsson,False
+Association des bibliothécaires du Québec – Quebec Library Association (ABQLA),human,human,Low,Unknown,False
+Association of Episcopal Conferences of Central Africa,Marcel Madila Basanguka,Marcel Madila Basanguka,medium,Cardinal Fridolin Ambongo Besungu,False
+Badminton Confederation of Africa,Michel Bau,Michel Bau,medium,George Quarcoo,False
+Badminton Europe,Sven Serré,Sven Serré,high,Peter Tarpgaard,False
+Badminton World Federation,Lu Shengrong,Lu Shengrong,medium,Poul-Erik Høyer Larsen,False
+Barroso Commission,José Manuel Durão Barroso,José Manuel Durão Barroso,high,José Manuel Barroso,False
+Blue Shield International,Peter Stone,Peter Stone,high,Karl Habsburg,False
+Boeotian confederation,Boeotarch,Boeotarch,High,There is no current leader.,True
+Bureau of the European Parliament,President of the European Parliament,Roberta Metsola,high,Roberta Metsola,True
+CONCACAF,Victor Montagliani,Victor Montagliani,medium,Sonia Bien-Aime,False
+Caribbean Football Union,Randolph Harris,Randolph Harris,high,Victor Montagliani,False
+Caritas Europa,Erny Gillen,Erny Gillen,high,Maria Amparo Alonso Escobar,False
+Caritas Internationalis,Carl Vath,Carl Vath,medium,Aloysius John,False
+Central American Football Union,Pedro Chaluja,Pedro Chaluja,high,Jorge Salazar,False
+Club of Rome,Mamphela Ramphele,Mamphela Ramphele,medium,Graeme Maxton,False
+Collective Security Treaty Organization,Alexander Lukashenko,Alexander Lukashenko,medium,Kassym-Jomart Tokayev,False
+College of Cardinals,Dean of the College of Cardinals,Giovanni Battista Re,medium,Giovanni Battista Re,True
+Comité Maritime International,Ann Fenech,Ann Fenech,medium,Helen Hofmann,False
+Commission on Legal Empowerment of the Poor,Hernando de Soto,Hernando de Soto,medium,Hernando de Soto,True
+Committee on Data for Science and Technology,Mercè Crosas,Mercè Crosas,low,Bonnie Hurst,False
+Commonwealth of Nations,Head of the Commonwealth,Charles III,high,King Charles III,True
+Community of Portuguese Language Countries,Zacarias da Costa,Zacarias da Costa,medium,João Lourenço,False
+Community of the Beatitudes,Anna-Katharina Pollmeyer,Anna-Katharina Pollmeyer,low,Jean-François Regniault,False
+Confederación Nacional del Trabajo,Secretary General of the Confederación Nacional del Trabajo,Secretary General of the Confederación Nacional del Trabajo,medium,Miguel Pérez,False
+Confederation of African Athletics,Hamad Kalkaba Malboum,Hamad Kalkaba Malboum,medium,Hamad Kalkaba Malboum,True
+Confederation of African Football,Patrice Motsepe,Patrice Motsepe,high,Patrice Motsepe,True
+Confederation of Independent Football Associations,Per-Anders Blind,Per-Anders Blind,medium,Per-Anders Blind,True
+Confederation of Open Access Repositories,Martha Whitehead,Martha Whitehead,medium,Kathleen Shearer,True
+Confederation of Sahel States,Assimi Goïta,Assimi Goïta,Low,Unknown,False
+Conference of Committee Chairs of the European Parliament,Gerardo Galeote Quecedo,Gerardo Galeote Quecedo,medium,Othmar Karas,False
+Confédération Européenne de Billard,Diane Wild,Diane Wild,medium,Dietmar Fussmann,False
+Consultative Committee for Units,Joachim Ullrich,Joachim Ullrich,medium,Dr. Estefania de Mondragon,False
+Council for German Orthography,Josef Lange,Josef Lange,Low,Unknown,False
+Council of Europe,Secretary General of the Council of Europe,Alain Berset,high,Marija Pejčinović Burić,False
+Delegation of the European Union to Belarus,ambassador of the European Union to Belarus,Dirk Schuebel,high,Dirk Schuebel,False
+Delegation of the European Union to Chad,ambassador of the European Union to Chad,Bertrand Soret,medium,Wolfram Voss,False
+Delegation of the European Union to Japan,ambassador of the European Union to Japan,ambassador of the European Union to Japan,medium,Patrizio Fondi,False
+Delegation of the European Union to Malaysia,ambassador of the European Union to Malaysia,ambassador of the European Union to Malaysia,medium,Michela D'Avria,False
+Delegation of the European Union to Moldova,ambassador of the European Union to Moldova,Dirk Schuebel,high,Jānis Mazeiks,True
+Delegation of the European Union to Turkey,ambassador of the European Union to Turkey,Christian Berger,medium,Nikolaus Meyer-Landrut,False
+Delegation of the European Union to Ukraine,ambassador of the European Union to Ukraine,Hugues Mingarelli,High,Matti Maasikas,False
+Delegation of the European Union to the Holy See,ambassador of the European Union to the Holy See,Jan Tombiński,high,Andrzej Jóźwik,False
+Delegation of the European Union to the United States,ambassador of the European Union to the United States,ambassador of the European Union to the United States,medium,Stavros Lambrinidis,False
+Delors Commission I,Jacques Delors,Jacques Delors,high,Jacques Delors,True
+East Asian Football Federation,Chung Mong-gyu,Chung Mong-gyu,medium,Chung Mong-gyu,False
+Eastern Caribbean Supreme Court,Chief Justice of the Eastern Caribbean Supreme Court,Janice Pereira,High,Dame Janice Pereira,False
+Ecclesial Conference of the Amazon,Pedro Ricardo Barreto Jimeno,Pedro Ricardo Barreto Jimeno,high,Claudio Hummes,False
+Economic Community of West African States,Bola Ahmed Tinubu,Bola Ahmed Tinubu,medium,Umaro Sissoco Embaló,False
+Economic and Financial Committee,Tuomas Saarenheimo,Tuomas Saarenheimo,Low,Unknown,False
+Education International,Mugwena Maluleke,Mugwena Maluleke,medium,David Edwards,False
+Emergency Committee of Atomic Scientists,Albert Einstein,Albert Einstein,medium,Rachel Bronson,False
+Eurogroup Working Group,Thomas Wieser,Thomas Wieser,high,"The current leader is likely from Spain due to their Council Presidency, but the exact individual isn't specified here.",False
+Europe of Nations and Freedom,Marcel de Graaff,Marcel de Graaff,medium,Gerolf Annemans,False
+European Agency for the Management of Operational Cooperation at the External Borders,Ilkka Laitinen,Ilkka Laitinen,high,Aija Kalnaja,False
+European Athletic Association,Dobromir Karamarinov,Dobromir Karamarinov,medium,Dobromir Karamarinov,True
+European Banking Authority,José Manuel Campa,José Manuel Campa,medium,José Manuel Campa,True
+European Banking Federation,Ana Botín,Ana Botín,medium,Wim Mijs,False
+European Border and Coast Guard Agency,Fabrice Leggeri,Fabrice Leggeri,medium,Aija Kalnaja,False
+European Central Bank,President of the European Central Bank,Christine Lagarde,high,Christine Lagarde,True
+European Chess Union,Zurab Azmaiparashvili,Zurab Azmaiparashvili,high,Arkady Dvorkovich,False
+European Coal and Steel Community,Jean Monnet,Jean Monnet,High,Jean Monnet,False
+European Commission,Ursula von der Leyen,Ursula von der Leyen,high,Ursula von der Leyen,True
+European Commission for the Efficiency of Justice,Ramin Qurbanov,Ramin Qurbanov,Low,I don't have the current information,False
+European Council of Skeptical Organisations,Amardeo Sarma,Amardeo Sarma,low,Gábor Hraskó,False
+European Court of Auditors,President of European Court of Auditors,Tony Murphy,medium,Tony Murphy,True
+European Court of Justice,President of the European Court of Justice,Koen Lenaerts,high,João Negrão,False
+European Data Protection Board,Anu Talus,Anu Talus,high,Andrea Jelinek,False
+European Defence Agency,Kaja Kallas,Kaja Kallas,medium,Muriel Doment,False
+European Democrats,James Scott-Hopkins,James Scott-Hopkins,medium,Manfred Weber,False
+European Digital Rights,Anna Fielder,Anna Fielder,low,Joe McNamee,False
+European Economic and Social Committee,Oliver Röpke,Oliver Röpke,medium,Christa Schweng,False
+European External Action Service,High Representative of the Union for Foreign Affairs and Security Policy,Kaja Kallas,High,Josep Borrell,False
+European Federation of Pharmaceutical Industries and Associations,Jean-Christophe Tellier,Jean-Christophe Tellier,high,Nathalie Moll,False
+European Handball Federation,Michael Wiederer,Michael Wiederer,medium,Michael Wiederer,True
+European Insurance and Occupational Pensions Authority,Gabriel Bernardino,Gabriel Bernardino,high,Petra Hielkema,True
+European Karate Federation,Antonio Espinós,Antonio Espinós,high,Antonio Espinós,True
+European Parliament,President of the European Parliament,Roberta Metsola,high,Roberta Metsola,True
+European Parliament Committee on Agriculture and Rural Development,Czesław Siekierski,Czesław Siekierski,medium,Norbert Lins,False
+European Parliament Committee on Budgetary Control,Ingeborg Gräßle,Ingeborg Gräßle,medium,Ryszard Czarnecki,False
+European Parliament Committee on Budgets,Johan Van Overtveldt,Johan Van Overtveldt,medium,Johan Van Overtveldt,True
+"European Parliament Committee on Civil Liberties, Justice and Home Affairs",Claude Moraes,Claude Moraes,high,Juan Fernando López Aguilar,False
+European Parliament Committee on Constitutional Affairs,Salvatore De Meo,Salvatore De Meo,high,Danuta Hübner,False
+European Parliament Committee on Culture and Education,Silvia Costa,Silvia Costa,medium,Sabrina Pădurețu,False
+European Parliament Committee on Development,Linda McAvan,Linda McAvan,medium,Tomas Tobé,False
+European Parliament Committee on Employment and Social Affairs,Lucia Ďuriš Nicholsonová,Lucia Ďuriš Nicholsonová,low,Dragoș Pîslaru,False
+European Parliament Committee on Fisheries,Pierre Karleskind,Pierre Karleskind,medium,Nuno Melo,False
+"European Parliament Committee on Industry, Research and Energy",Cristian Bușoi,Cristian Bușoi,medium,Cristian-Silviu Bușoi,False
+European Parliament Committee on Internal Market and Consumer Protection,Vicky Ford,Vicky Ford,Medium,Anna Cavazzini,True
+European Parliament Committee on International Trade,Bernd Lange,Bernd Lange,medium,Bernd Lange,True
+European Parliament Committee on Legal Affairs,Adrián Vázquez Lázara,Adrián Vázquez Lázara,low,Lucy Nethsingha,False
+European Parliament Committee on Petitions,Cecilia Wikström,Cecilia Wikström,medium,Dolors Montserrat,False
+European Parliament Committee on Transport and Tourism,Karima Delli,Karima Delli,high,Karlo Ressler,False
+"European Parliament Committee on the Environment, Public Health and Food Safety",Pascal Canfin,Pascal Canfin,Low,The current chair is unknown as of my last update; please refer to the European Parliament's official website for accurate information.,False
+European People's Party Group,Manfred Weber,Manfred Weber,High,Manfred Weber,True
+European Public Prosecutor's Office,European Chief Prosecutor,Laura Codruța Kövesi,high,Laura Codruța Kövesi,True
+European Research Council,Maria Leptin,Maria Leptin,high,Maria Leptin,True
+European Rowing Confederation,Annamarie Stapleton,Annamarie Stapleton,medium,Jean-Christophe Rolland,False
+European Securities and Markets Authority,Verena Ross,Verena Ross,high,Verena Ross,True
+European Shooting Confederation,Vladimir Lisin,Vladimir Lisin,medium,Ivan Tsikhhan,False
+European Space Agency,Director General of the European Space Agency,Josef Aschbacher,high,Josef Aschbacher,True
+European Systemic Risk Board,President of the European Central Bank,Christine Lagarde,high,Christine Lagarde,True
+European Training Foundation,Pilvi Torsti,Pilvi Torsti,high,Cesare Onestini,False
+European Union Agency for Fundamental Rights,Sirpa Rautio,Sirpa Rautio,medium,Michael O'Flaherty,False
+European Union Agency for Railways,Josef Doppelbauer,Josef Doppelbauer,high,Josef Doppelbauer,False
+European Union of Mountaineering Associations,Roland Stierle,Roland Stierle,low,Jordi Quixà,False
+European Writers' Council,Miguel Ángel Serrano,Miguel Ángel Serrano,high,Nicola Solomon,False
+Euroscience,Enric Banda,Enric Banda,medium,Dr. Jean-Patrick Connerade,False
+FIDE,Arkady Dvorkovich,Arkady Dvorkovich,high,Arkady Dvorkovich,True
+FIFA,president of FIFA,Gianni Infantino Riovaldi,medium,Gianni Infantino,True
+Federazione Italiana Sportiva Istituti Attività Educative,Lodovico Morell S.J.,Lodovico Morell S.J.,Low,Not Available,False
+Financial Stability Institute,Fernando Restoy,Fernando Restoy,high,Dietrich Domanski,False
+Focolare Movement,Margaret Karram,Margaret Karram,medium,Maria Voce,False
+Foreign Affairs Council,Federica Mogherini,Federica Mogherini,high,Josep Borrell,False
+Franco-German Parliamentary Assembly,Yaël Braun-Pivet,Yaël Braun-Pivet,high,Sylvie Goulard and Michael Roth,False
+Friends World Committee for Consultation,Carl Heath,Carl Heath,high,Lisabeth Karumba,False
+Fédération Internationale de Billard,Georges Troffaes,Georges Troffaes,medium,Farouk Barki,True
+Fédération Internationale de Volleyball,Paul Libaud,Paul Libaud,high,Ary Graça Fumo,False
+Fédération Internationale de l'Automobile,Mohammed bin Sulayem,Mohammed bin Sulayem,high,Mohammed Ben Sulayem,True
+GAMMA Federation,Carlo di Blasi,Carlo di Blasi,high,Unknown,False
+General Secretariat of the Council of the European Union,Secretary-General of the Council of the European Union,Thérèse Blanchet,high,Jeppe Tranholm-Mikkelsen,False
+Global Bank,Ron Nechemia,Ron Nechemia,high,David Malpass,False
+Global Justice And Advancement Party,Albara Almerf,Albara Almerf,low,Unknown,False
+Global Young Academy,Koen Vermeir,Koen Vermeir,medium,Connie Nshemere,False
+Goethe-Institut,Carola Lentz,Carola Lentz,medium,Johannes Ebert,False
+Group of the Alliance of Liberals and Democrats for Europe,Guy Verhofstadt,Guy Verhofstadt,high,Dacian Cioloș,False
+Group of the Party of European Socialists,Pauline Green,Pauline Green,high,Iratxe García Pérez,True
+Health for África,Shlomo Peretz,Shlomo Peretz,medium,Dr. Matshidiso Moeti,True
+Hillel International,Eric Fingerhut,Eric Fingerhut,medium,Adam Lehman,True
+Human Rights Watch,James F. Hoge Jr.,James F. Hoge Jr.,high,Tirana Hassan,False
+Human Rights Without Frontiers International,Willy Fautré,Willy Fautré,high,Willy Fautré,True
+Human Rights in China,Sharon Hom,Sharon Hom,,,False
+Identity and Democracy,Marco Zanni,Marco Zanni,medium,Jordan Bardella,False
+"Identity, Tradition, Sovereignty",Bruno Gollnisch,Bruno Gollnisch,medium,Bruno Gollnisch,False
+Indian Ocean Commission,Secretary-General of the Indian Ocean Commission,Hamada Madi,Low,Not specified,False
+IndustriALL European Trade Union,Michael Vassiliadis,Michael Vassiliadis,high,Jürgen Kox,False
+IndustriALL Global Union,Jörg Hofmann,Jörg Hofmann,medium,Valter Sanches,False
+Inmarsat,Andrew Sukawaty,Andrew Sukawaty,medium,Rajeev Suri,False
+Intergovernmental Panel on Climate Change,Hoesung Lee,Hoesung Lee,high,Hoesung Lee,False
+Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services,Ana María Hernández Salgar,Ana María Hernández Salgar,medium,Ana María Hernández Salgar,False
+International Academy of Sciences San Marino,Fabrizio Pennacchietti,Fabrizio Pennacchietti,medium,Anatoly Karpov,False
+International Association for Cryptologic Research,Christian Cachin,Christian Cachin,medium,Yael Tauman Kalai,False
+International Association for Political Science Students,Luca Martinelli,Luca Martinelli,Low,Unknown,False
+International Association for the Study of Pain,Claudia Sommer,Claudia Sommer,medium,Dr. Rolf-Detlef Treede,False
+International Association of Chess Press,Jordi Puig i Laborda,Jordi Puig i Laborda,low,Unknown,False
+International Association of Conference Interpreters,Angela Keil,Angela Keil,low,Bruno Poulet,False
+International Association of Exorcists,Karel Orlita,Karel Orlita,medium,Father Francesco Bamonte,False
+International Association of Prosecutors,Cheol-Kyu Hwang,Cheol-Kyu Hwang,high,Gerhard Jarosch,False
+International Association of Sound and Audiovisual Archives,Kurt Deggeller,Kurt Deggeller,medium,Ilaria Papatheodorou,False
+International Association of Teachers of Russian Language and Literature,Lyudmila Verbitskaya,Lyudmila Verbitskaya,high,Andrey Kulagin,False
+International Association of Visual Semiotics,Göran Sonesson,Göran Sonesson,medium,Michel Costantino,False
+International Astronomical Union,Debra Elmegreen,Debra Elmegreen,medium,Debra Elmegreen,False
+International Bank for Reconstruction and Development,Ajaypal Singh Banga,Ajaypal Singh Banga,high,Ajay Banga,True
+International Bobsleigh and Skeleton Federation,Robert H. Storey,Robert H. Storey,medium,Johannes Lochner,False
+International Boxing Association,Umar Nazarovich Kremlev,Umar Nazarovich Kremlev,medium,Umar Kremlev,True
+International Brecht Society,Stephen Brockmann,Stephen Brockmann,low,Dr. John White,False
+International Canoe Federation,José Perurena,José Perurena,medium,Thomas Konietzko,True
+International Cartographic Association,Georg Gartner,Georg Gartner,high,Sara Fabrikant,False
+International Catholic Conference of Scouting,Georges El Ghorayeb,Georges El Ghorayeb,medium,Bishop Emmanuel Kofi Fianu,False
+International Centre for Migration Policy Development,Michael Spindelegger,Michael Spindelegger,medium,Michael Spindelegger,True
+International Clarinet Association,Jerry Pierce,Jerry Pierce,Medium,John C. Peterson,False
+International Climbing and Mountaineering Federation,Peter Muir,Peter Muir,medium,Peter Muir,True
+International Commission on the Protection of the Oder against Pollution,Janusz Zaleski,Janusz Zaleski,low,Poland,False
+International Committee of Slavists,Natalia Bernitskaïa,Natalia Bernitskaïa,high,Andrej Žolkiewski,False
+International Committee of the Red Cross,Mirjana Spoljaric Egger,Mirjana Spoljaric Egger,high,Peter Maurer,False
+International Conference of Asian Political Parties,Jose de Venecia,Jose de Venecia,low,The current leader is not definitively known based on available information.,False
+International Correspondence Chess Federation,Eric Ruch,Eric Ruch,Low,The current leader is not definitively known by me at this time.,False
+International Court of Justice,President of the International Court of Justice,Joan Donoghue,high,Joan E. Donoghue,False
+International Criminal Court,President of the International Criminal Court,Tomoko Akane,high,Karim Khan,False
+International Criminal Tribunal for the former Yugoslavia,Theodor Meron,Theodor Meron,low,Serge Brammertz,False
+International Federation of American Football,Tommy Wiking,Tommy Wiking,medium,Troy Vincent,False
+International Federation of Landscape Architects,Geoffrey Jellicoe,Geoffrey Jellicoe,medium,James Hayter,False
+International Federation of Language Teacher Associations,Charles Boulanger,Charles Boulanger,high,David K. Barnes,False
+International Federation of Library Associations and Institutions,Christine Deschamps,Christine Deschamps,medium,Barbara Lison,False
+International Federation of Red Cross and Red Crescent Societies,Kate Forbes,Kate Forbes,medium,Khaled Khadi,False
+International Federation of Sport Climbing,Marco Maria Scolaris,Marco Maria Scolaris,high,Maria Scolaris,True
+International Federation of Sports Medicine,Fabio Pigozzi,Fabio Pigozzi,medium,Mogens Kreutzfeldt,False
+International Fencing Federation,Emmanuel Katsiadakis,Emmanuel Katsiadakis,high,Emmanuel Katsiadakis,False
+International Gymnastics Federation,Morinari Watanabe,Morinari Watanabe,medium,Irina Vasilevskaya-Deineko,False
+International Judo Federation,Marius Vizer,Marius Vizer,high,László Toth,False
+International Liaison Committee for Reunification and Peace of Korea International,Ali Musa-Kabia,Ali Musa-Kabia,Low,Unknown,False
+International Luxembourg Forum on Preventing Nuclear Catastrophe,Viatcheslav Moshe Kantor,Viatcheslav Moshe Kantor,medium,Viacheslav Kantor,True
+International Maritime Organization,Secretary-General of the International Maritime Organization,Arsenio Antonio Dominguez Velasco,high,Kitack Lim,False
+International Mathematical Union,Carlos Kenig,Carlos Kenig,medium,Carla Groen,False
+International Mineralogical Association,Peter C. Burns,Peter C. Burns,Low,Unknown,False
+International National Trusts Organisation,Simon Molesworth,Simon Molesworth,low,Unknown,False
+International Network for Government Science Advice,Rémi Quirion,Rémi Quirion,medium,Peter Gluckman,False
+International Olympic Committee,president of the International Olympic Committee,Kirsty Coventry,high,Thomas Bach,False
+International Organisation of Vine and Wine,Yvette van der Merwe,Yvette van der Merwe,medium,Sarah Nodijé,False
+International Paralympic Committee,Andrew Parsons,Andrew Parsons,high,Andrew Parsons,True
+International Radiation Protection Association,Bernard Le Guen,Bernard Le Guen,low,Dr. Carlos Rojas Palacios,False
+International Renewable Energy Agency,Francesco La Camera,Francesco La Camera,medium,Francesco La Camera,True
+International Science Council,B. Daya Reddy,B. Daya Reddy,high,Peter Gluckman,False
+International Skating Union,Kim Jae-youl,Kim Jae-youl,medium,Jan Dijkema,False
+International Ski and Snowboard Federation,Johan Eliasch,Johan Eliasch,high,Johan Eliasch,True
+International Society for Plant Pathology,Jan E Leach,Jan E Leach,medium,Dr. Jean-Michel Ané,False
+International Society of the New Patrons,Alexander Koch,Alexander Koch,high,Philipp Ruch,False
+International Softball Federation,President of the International Softball Federation,Gerry Snyder,high,Riccardo Fraccari,True
+International Table Hockey Federation,Bjarne Axelsen,Bjarne Axelsen,low,Unknown,False
+International Table Tennis Federation,Thomas Weikert,Thomas Weikert,high,Petra Sörling,True
+International Tribunal for the Law of the Sea,Jin-Hyun Paik,Jin-Hyun Paik,medium,Tomas Heidar,True
+International Union for Conservation of Nature,Razan Khalifa Al Mubarak,Razan Khalifa Al Mubarak,high,Dr. Pippa Howard,False
+International Union of Catholic Esperantists,Francisko de Paul Meštan,Francisko de Paul Meštan,low,Mark Fettes,False
+International Union of Prehistoric and Protohistoric Sciences,Jacek Kabaciński,Jacek Kabaciński,high,Unknown,False
+International Union of Pure and Applied Physics,Michel Spiro,Michel Spiro,medium,Quentin Williams,False
+International Wheelchair Basketball Federation,Ulf Mehrens,Ulf Mehrens,high,Ulf Mehrens,True
+Jenkins Commission,Roy Jenkins,Roy Jenkins,Low,Unknown,False
+Juncker Commission,Jean-Claude Juncker,Jean-Claude Juncker,medium,Ursula von der Leyen,False
+Le Stelle di Marisa (Fondazione),Daniela Ferolla,Daniela Ferolla,Low,Unknown,False
+League of Nations,Secretary-General of the League of Nations,Seán Lester,high,The League of Nations does not exist anymore and therefore does not have a current leader.,False
+League of the Islanders,Nesiarch,Nesiarch,Low,Unknown,False
+Lutheran World Federation,General Secretary of the Lutheran World Federation,Anne Burghardt,medium,Rev. Dr. Stephanie Spore,False
+Marín Commission,Manuel Marín,Manuel Marín,Low,Unknown,False
+Mensa International,Bibiána Balanyi,Bibiána Balanyi,high,Bernd Hutten-Czapski,False
+Mercosur,Mercosur Pro Tempore Presidency,Mario Abdo Benítez,high,Luiz Inácio Lula da Silva,False
+Moroccan Youth Council for Diplomatic and International Cooperation,Moataz Kobry,Moataz Kobry,low,I don't have information on the current leader of the Moroccan Youth Council for Diplomatic and International Cooperation.,False
+Multilateral Investment Guarantee Agency,Keiko Honda,Keiko Honda,high,Hiroshi Matano,True
+Muslim Brotherhood,General Guide of the Muslim Brotherhood,Mohammed Badie,medium,Mahmoud Ezzat,False
+Médecins du Monde,Claude Moncorgé,Claude Moncorgé,low,Dr. Christophe Fournier,False
+NATO,Secretary General of NATO,Mark Rutte,high,Jens Stoltenberg,False
+New Acropolis,Delia Steinberg Guzmán,Delia Steinberg Guzmán,high,Delphi,False
+New Development Bank,Dilma Rousseff,Dilma Rousseff,high,Marcos Troyjo,False
+Non-Aligned Movement,Nicolás Maduro,Nicolás Maduro,medium,Ilham Aliyev,False
+Oceania Continent Handball Federation,Ricardo Blas,Ricardo Blas,low,Unknown,False
+Oceania Football Confederation,Lambert Maltock,Lambert Maltock,medium,Lambert Maltock,True
+Office of the High Commissioner for Human Rights,United Nations High Commissioner for Human Rights,Volker Türk,High,Volker Türk,True
+Open Door International for the Economic Emancipation of the Woman Worker,Chrystal Macmillan,Chrystal Macmillan,high,"The current leader is likely associated with the Jehovah's Witnesses organization, but no specific name is available. Confidence: Low. 
+
+Answer: N/A",False
+Organisation of Islamic Cooperation,Hissein Brahim Sem Taha,Hissein Brahim Sem Taha,Medium,Hussain Ibrahim Taha,True
+Organization for Cooperation of Railways,Tadeusz Szozda,Tadeusz Szozda,low,The current leader is likely the Secretary General based in Warsaw.,False
+Organization of American States,General Secretariat of the Organization of American States,Luis Almagro,high,María del Carmen Sandoval,False
+PEN International,Jennifer Clement,Jennifer Clement,high,Burhan Sönmez,True
+Pan American Health Organization,Carissa Etienne,Carissa Etienne,medium,Carissa F. Etienne,False
+Pan-American Rugby Association,Agustín Pichot,Agustín Pichot,medium,Agustín Pichot,True
+Panam Sports,Neven Ilic Álvarez,Neven Ilic Álvarez,medium,Neven Ilic,True
+Parliamentary Assembly of Turkic States,Oral Muchamedschanow,Oral Muchamedschanow,high,Sahiba Gafarova,True
+Parliamentary Assembly of the Council of Europe,Theodoros Roussopoulos,Theodoros Roussopoulos,medium,Tiny Kox,False
+Parliamentary Assembly of the Organization for Security and Co-operation in Europe,Pia Kauma,Pia Kauma,high,Joakim Nylund,False
+Patriots for Europe,Jordan Bardella,Jordan Bardella,high,Marine Le Pen,False
+Plazi,Donat Agosti,Donat Agosti,high,Donat Agosti,True
+Pro-Natura International,Guy Reinaud,Guy Reinaud,Low,The current leader could not be determined with available information. It's recommended to check the organization's official resources for the most accurate details.,False
+Prodi Commission,Romano Prodi,Romano Prodi,high,Romano Prodi was the leader of the Prodi Commission during his tenure as President of the European Commission (1999-2004),True
+Profintern,Solomon Lozovsky,Solomon Lozovsky,high,There is no current leader,True
+Progressive Alliance of Socialists and Democrats,Iratxe García,Iratxe García,high,Iratxe García Pérez,True
+Pueri Cantores,Jean Henric,Jean Henric,high,The current leader could not be identified with certainty.,False
+RINGS - The International Research Association of Institutions of Advanced Gender Studies,Deevia Bhana,Deevia Bhana,low,The current leader of RINGS is not specified in the provided information.,False
+Renew Europe,Valérie Hayer,Valérie Hayer,medium,Stéphane Séjourné,False
+Rotary International,Gordon McInally,Gordon McInally,high,Gordon McInally,False
+Rugby Europe,Janhein Pieterse,Janhein Pieterse,medium,Octavian Morariu,False
+Réseau francophone international en conseil scientifique,Mathieu Ouimet,Mathieu Ouimet,medium,Djibril Wade,False
+Santer Commission,Jacques Santer,Jacques Santer,low,Jacques Santer,True
+Socialist Group,Pierre-Olivier Lapie,Pierre-Olivier Lapie,high,Iratxe García Pérez,True
+Socialist Group in the European Parliament,Martin Schulz,Martin Schulz,medium,Iratxe García,True
+Sunni Students Council,Shafi Bin Khalid,Shafi Bin Khalid,low,Unknown,False
+Symposium of Episcopal Conferences of Africa and Madagascar,Fridolin Ambongo Besungu,Fridolin Ambongo Besungu,high,Emmanuel Badejo,False
+The Green Group in the European Parliament,Alexander Langer,Alexander Langer,high,Ska Keller,False
+The Greens–European Free Alliance,Terry Reintke,Terry Reintke,medium,Ska Keller,False
+The Left in the European Parliament - GUE/NGL,Manon Aubry,Manon Aubry,high,Manon Aubry,False
+Thorn Commission,Gaston Thorn,Gaston Thorn,Low,There is no widely recognized information available about the Thorn Commission or its current leader.,False
+Transparency International,François Valérian,François Valérian,medium,Daniel Eriksson,False
+Turkic Academy,Shahin Mustafayev,Shahin Mustafayev,high,Kubanychbek Omuraliev,False
+Turkic Culture and Heritage Foundation,Aqtoty Raiymqulova,Aqtoty Raiymqulova,high,Mehriban Aliyeva,False
+UCLG Middle East and West Asia,Fatma Şahin,Fatma Şahin,low,Kadir Topbaş,False
+UNIAPAC,Sigrid Marz,Sigrid Marz,low,Pierre de Mautort,False
+UNICEF,Executive Director of UNICEF,Henrietta H. Fore,high,Catherine Russell,True
+Union Cycliste Internationale,David Lappartient,David Lappartient,high,David Lappartient,True
+Union Internationale des Fédérations des Amateurs de Billard,Charles Faroux,Charles Faroux,high,Farouk Barki,False
+Union of European Football Associations,Aleksander Čeferin,Aleksander Čeferin,high,Aleksander Čeferin,True
+Union of Kansai Governments,Yoshinobu Nisaka,Yoshinobu Nisaka,high,Hiroshi Suto,False
+United Cities and Local Governments of Africa,Khalifa Sall,Khalifa Sall,low,Mohamed Boudra,False
+United Nations,United Nations Secretary-General,António Guterres,high,António Guterres,True
+United Nations General Assembly,President of the United Nations General Assembly,Dennis Francis,medium,Dennis Francis,True
+United Nations Group of Experts on Geographical Names,Helen Kerfoot,Helen Kerfoot,low,Unknown,False
+United Nations Office for the Coordination of Humanitarian Affairs,Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator,Mark Lowcock,high,Martin Griffiths,False
+United Nations Office on Sport for Development and Peace,Wilfried Lemke,Wilfried Lemke,low,Wilfried Lemke,False
+United Nations Secretariat,United Nations Secretary-General,António Guterres,High,António Guterres,True
+Universal Love and Brotherhood Association,Onisaburo Deguchi,Onisaburo Deguchi,Low,Unknown,False
+West Asian Football Federation,Prince Ali bin Al-Hussein of Jordan,Prince Ali bin Al-Hussein of Jordan,high,Khaldoon Al Muhairi,False
+Women's Forum for the Economy and Society,Anne-Gabrielle Heilbronner,Anne-Gabrielle Heilbronner,medium,Chiara Corazza,False
+Women's International Democratic Federation,Freda Brown,Freda Brown,low,Monica Valenti,False
+Women's International League for Peace and Freedom,Sylvie Jacqueline Ndongmo,Sylvie Jacqueline Ndongmo,high,Aditi Sengupta,False
+World Aquatics,Husain Al-Musallam,Husain Al-Musallam,high,Husain Al-Musallam,True
+World Bank,Ajaypal Singh Banga,Ajaypal Singh Banga,high,David Malpass,False
+World Brotherhood Federation,John Clifford,John Clifford,Low,Unknown,False
+World Confederation of Billiards Sports,Ian Anderson,Ian Anderson,medium,Ian Anderson,False
+World Constitution and Parliament Association,Sam Pitroda,Sam Pitroda,high,Dr. Glen T. Martin,True
+World Federation of United Nations Associations,Park Soo-gil,Park Soo-gil,Medium,Bonna,False
+World Food Programme,Cindy McCain,Cindy McCain,High,David Beasley,False
+World Heart Federation,Daniel José Piñeiro,Daniel José Piñeiro,high,Dr. Fausto Pinto,False
+World Jewish Congress,Ronald Lauder,Ronald Lauder,Medium,Ronald Lauder,True
+World League for Freedom and Democracy,Zhao Ziqi,Zhao Ziqi,medium,Ma Ying-jeou,False
+World Mountain Running Association,Jonathan Wyatt,Jonathan Wyatt,medium,Tomislav Ribić,False
+World Peace Council,Socorro Gomes,Socorro Gomes,medium,Thanasis Pafilis,False
+World Rowing,president of the International Rowing Federation,Jean-Christophe Rolland,high,Jean-Christophe Rolland,True
+World Rugby,Brett Robinson,Brett Robinson,medium,Andy Marinos,False
+World Sailing,Quanhai Li,Quanhai Li,high,Quanhai Li,True
+World Snooker Federation,Jason Ferguson,Jason Ferguson,medium,Jason Ferguson,True
+World Trade Organization,Director-General of the World Trade Organization,Ngozi Okonjo-Iweala,high,Ngozi Okonjo-Iweala,True
+World Union,Mirra Alfassa,Mirra Alfassa,low,The World Union is not a recognized organization,False
+World Uyghur Congress,Dolkun Isa,Dolkun Isa,,,False
+World Wide Fund for Nature,Adil Najam,Adil Najam,high,Marco Lambertini,False
+World Women’s Snooker,Mandy Fisher,Mandy Fisher,medium,Nutcharut Wongharuthai,False
+World Zionist Organization,Yaakov Hagoel,Yaakov Hagoel,medium,Yaakov Hagoel,False
+World Baseball Softball Confederation,Riccardo Fraccari,Riccardo Fraccari,high,Riccardo Fraccari,True
+Young Christian Workers,Laetitia M. Navarro,Laetitia M. Navarro,medium,Sarah-Jane Caiazza,False
+Young Pirates of Europe,Arnaldur Sigurðarson,Arnaldur Sigurðarson,Low,Unknown,False
