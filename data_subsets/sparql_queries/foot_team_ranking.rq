@@ -1,0 +1,19 @@
+SELECT ?team ?teamLabel ?ranking ?rankingDate WHERE {
+  ?team wdt:P31 wd:Q6979593;  # Instance of national association football team
+    	p:P1352 ?rankingStatement.  # FIFA Ranking
+  ?rankingStatement ps:P1352 ?ranking;  # Ranking value
+                  	pq:P585 ?rankingDate.  # Date of ranking
+
+  {
+	SELECT ?team (MAX(?date) AS ?latestRankingDate) WHERE {
+  	?team p:P1352 ?statement.
+  	?statement pq:P585 ?date.
+	} GROUP BY ?team
+  }
+ 
+  FILTER(?rankingDate = ?latestRankingDate)
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+ORDER BY ASC(?ranking)
+LIMIT 50

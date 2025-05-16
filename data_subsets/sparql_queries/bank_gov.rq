@@ -1,0 +1,12 @@
+SELECT ?bank ?bankLabel ?position ?positionLabel ?governor ?governorLabel ?startDate WHERE {
+  ?bank wdt:P31 wd:Q66344.  # Instance of a central bank
+  ?bank wdt:P2388 ?position.  
+ 
+  # Find the person currently holding the position
+  ?position wdt:P1308 ?governor.  
+ 
+ 
+  OPTIONAL { ?governor p:P1308 ?statement. ?statement pq:P580 ?startDate. }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

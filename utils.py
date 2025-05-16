@@ -1,3 +1,4 @@
+import re
 import pandas as pd
 from fuzzywuzzy import fuzz 
 
@@ -11,7 +12,17 @@ def entity2id_codex():
     relations_dict = {index:row['label'] for index, row in relations.iterrows()}
     return entities_dict, relations_dict
 
-
+def extract_fields(text):
+    pattern = (
+        r"Answer:\s*(?P<answer>.*?)\s*"
+        r"Confidence:\s*(?P<confidence>.*?)\s*"
+        r"Reference:\s*(?P<reference>.*?)\s*$"
+    )
+    match = re.search(pattern, text, re.DOTALL)
+    if match:
+        return match.group("answer"), match.group("confidence"), match.group("reference")
+    else:
+        return None, None, None
 
 def rowwise_eval(row1, row2, threshold=75):
     score = fuzz.ratio(str(row1).lower(), str(row2).lower())
@@ -33,25 +44,3 @@ def jaccard_similarity(str1, str2, n=2):
     return len(intersection) / len(union)
 
 
-# input_file = "humans_wikidata/humans_wikidata/type2relation2type_ttv.txt"
-
-# unique_relations = set()
-
-# with open(input_file, "r", encoding="utf-8") as f:
-#     for line in f:
-#         parts = line.strip().split("\t")
-#         if len(parts) >= 2:
-#             relation = parts[1].strip()
-#             if "/relation/" in relation:
-#                 rel_id = relation.split("/")[-1]
-#                 unique_relations.add(rel_id)
-
-# sorted_relations = sorted(unique_relations)
-
-# entities_dict, relations_dict = entity2id_codex()
-# human_wikidata_relations = []
-
-# for rel in sorted_relations:
-#     relation = relations_dict.get(rel, None)
-#     if relation:
-#         human_wikidata_relations.append(relation)

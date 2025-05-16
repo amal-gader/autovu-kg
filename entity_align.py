@@ -7,13 +7,6 @@ import requests
 
 
 
-# def extract_answer(text):
-#     pattern=r"(?:Answer:\s*)\s*(?:<[^>]+>\s*)*([\w\s,.'-]+?)(?=\s*(?:\*\*\s*\.\s*|, Confidence|$))"
-   
-#     matches = re.findall(pattern, text, re.IGNORECASE | re.MULTILINE)
-#     last_match = matches[-1] if matches else None
-#     return last_match
-
 
 def extract_answer(text):
     pattern = r"Answer:\s*(.+?)(?=\s*(?:, Confidence|\nConfidence|$))"

@@ -1,0 +1,12 @@
+SELECT ?company ?companyLabel ?officialName ?ceoLabel ?latestDate WHERE {
+  ?company wdt:P1448 ?officialName.  
+  ?company p:P169 ?latestCeoStatement.  # CEO statement
+  ?latestCeoStatement ps:P169 ?ceo.  # CEO entity
+
+  OPTIONAL { ?latestCeoStatement pq:P585 ?latestDate. }
+
+  # Filter only companies that are publicly traded
+  ?company wdt:P414 ?stockExchange.  # Company must be listed on a stock exchange
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
