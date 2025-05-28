@@ -175,8 +175,8 @@ if __name__=='__main__':
     
     #incremental_save()
     
-    df = pd.read_csv('data_subsets/company_ceo_31-03.csv') 
+    df = pd.read_csv('data_subsets/bank_governors_01-04.csv') 
     #df['prediction']=df['governorLabel'].progress_apply(lambda x: answer_with_gpt(f"Who is the current governor of {x}?"))
     # #df['prediction']=df['teamLabel'].progress_apply(lambda x: generate_answer(f"What is the current global ranking of {x}?"))
-    df['prediction']=df['companyLabel'].progress_apply(lambda x: gpt_no_web(f"Who is the current CEO of{x}?")) 
-    df.to_csv('company_ceo_31-03_results_gpt_no_web.csv', index=False)
+    df['prediction']=df['bankLabel'].progress_apply(lambda x: answer_with_gpt(f"Who is the current governor of the {x}?")) 
+    df.to_csv('bank_governors_01-04_gpt_web.csv', index=False)
