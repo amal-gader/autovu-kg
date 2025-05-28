@@ -42,7 +42,8 @@ llm = ChatOpenAI(
 def answer_no_web(query):
     messages = [
         SystemMessage(
-            content="You are an AI assistant. Your task is to answer the question directly based on your knowledge."
+            content=
+            "You are an AI assistant. Your task is to answer the question directly based on your knowledge."
             "\nAnswer briefly and directly, return only the answer label."
             "\nReturn a confidence score based on your certainty: high, medium or low."
             "\nYour answer should be in the format: Answer: your_answer, Confidence: your_confidence_score."
@@ -63,8 +64,6 @@ def answer_with_gpt(query):
             "type": "web_search_preview",
             "search_context_size": "low",
         }],
-        # input=f"Answer the following question: {query} Search the web if you are not sure about the answer."
-        # ,
         input=[
         {
          "role": "developer",
@@ -82,13 +81,34 @@ def answer_with_gpt(query):
         }
         ])
     return response.output_text
-    
+
+
+def gpt_no_web(query: str, model='gpt-4o-mini'):
+    response = client.chat.completions.create(
+        model=model,
+        messages=[
+            {
+                "role": "system",
+                "content": 
+                    ("You are an AI assistant. You must always respond in this exact format:\n"
+                     "Answer: <answer here, return only the name>\n"
+                     "Confidence: <high | medium | low>\n"
+                     "Do not include any other text, commentary, or formatting.'\n'"
+                     )
+            },
+            {
+                "role": "user",
+                "content": query
+            }]
+        )
+    return response.choices[0].message.content  
+
     
 def generate_answer(query):
     
     custom_prompt = PromptTemplate.from_template(
         "You are an AI assistant. Your task is to answer the question directly using the latest information which will be provided."
-        "\nNote that search results are more up-to-date and reliable than the information you have as we are in 2025."
+        "\nNote that search results could be more up-to-date and reliable than the information you have."
         "\nAnswer briefly and directly, return only the answer label."
         "\nReturn a confidence score based on the provided context: high, medium or low."
         "\n Your answer should be in the format: Answer: your_answer, Confidence: your_confidence_score."
@@ -102,7 +122,7 @@ def generate_answer(query):
         prompt=custom_prompt,
         #verbose=True
     )
-    # Get the latest factual information first
+    # Get the latest factual information
     search_result = search.results(query)
         
     formatted_results = "\n".join(
@@ -119,44 +139,44 @@ def generate_answer(query):
         
     return result.strip()
 
-def incremental_save():
+# def incremental_save():
 
-    df = pd.read_csv('data/company_ceo_31-03.csv')
-    df['prediction'] = None 
+#     df = pd.read_csv('data/company_ceo_31-03.csv')
+#     df['prediction'] = None 
 
-    save_path = 'company_ceo_31-03_progress.csv'
+#     save_path = 'company_ceo_31-03_progress.csv'
      
-    try:
-        df_existing = pd.read_csv(save_path)
-        df.update(df_existing)
-        print("Resumed from existing saved file.")
-    except FileNotFoundError:
-        pass
+#     try:
+#         df_existing = pd.read_csv(save_path)
+#         df.update(df_existing)
+#         print("Resumed from existing saved file.")
+#     except FileNotFoundError:
+#         pass
 
-    for idx, row in tqdm(df.iterrows(), total=len(df)):
-        if pd.isna(df.at[idx, 'prediction']):
-            try:
-                prompt = f"Who is the current CEO of {row['companyLabel']}?"
-                prediction = answer_no_web(prompt)
-                df.at[idx, 'prediction'] = prediction
+#     for idx, row in tqdm(df.iterrows(), total=len(df)):
+#         if pd.isna(df.at[idx, 'prediction']):
+#             try:
+#                 prompt = f"Who is the current CEO of {row['companyLabel']}?"
+#                 prediction = answer_no_web(prompt)
+#                 df.at[idx, 'prediction'] = prediction
 
-                # Save after every N rows to avoid data loss
-                if idx % 5 == 0:  # every 5th row
-                    df.to_csv(save_path, index=False)
-            except Exception as e:
-                print(f"Error at index {idx}: {e}")
-                time.sleep(2)  # slight delay if needed
+#                 # Save after every N rows to avoid data loss
+#                 if idx % 5 == 0:  # every 5th row
+#                     df.to_csv(save_path, index=False)
+#             except Exception as e:
+#                 print(f"Error at index {idx}: {e}")
+#                 time.sleep(2)  # slight delay if needed
 
    
-    df.to_csv(save_path, index=False)
+#     df.to_csv(save_path, index=False)
 
 
 if __name__=='__main__':
     
     #incremental_save()
     
-    df = pd.read_csv('data/international_organizations_leadership_31-03.csv')
+    df = pd.read_csv('data_subsets/bank_governors_01-04.csv') 
     #df['prediction']=df['governorLabel'].progress_apply(lambda x: answer_with_gpt(f"Who is the current governor of {x}?"))
     # #df['prediction']=df['teamLabel'].progress_apply(lambda x: generate_answer(f"What is the current global ranking of {x}?"))
-    df['prediction']=df['organizationLabel'].progress_apply(lambda x: answer_no_web(f"Who is the current leader of {x}?"))
-    df.to_csv('international_organizations_leadership_31-03_results_r1_no_web.csv', index=False)
+    df['prediction']=df['bankLabel'].progress_apply(lambda x: answer_with_gpt(f"Who is the current governor of the {x}?")) 
+    df.to_csv('bank_governors_01-04_gpt_web.csv', index=False)

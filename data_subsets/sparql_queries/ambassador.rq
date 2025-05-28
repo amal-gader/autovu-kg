@@ -1,0 +1,10 @@
+SELECT ?embassy ?embassyLabel ?hostCountry ?hostCountryLabel ?operatorCountry ?operatorCountryLabel ?ambassador ?ambassadorLabel WHERE {
+  ?embassy wdt:P31 wd:Q3917681;     	# Embassy
+       	wdt:P17 ?hostCountry;    	
+       	wdt:P137 ?operatorCountry;   
+       	wdt:P1037 ?ambassador.   	
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+ORDER BY ?hostCountryLabel
+

@@ -1,0 +1,9 @@
+SELECT ?organization ?organizationLabel ?position ?positionLabel ?officeholder ?officeholderLabel WHERE {
+  ?organization wdt:P31/wdt:P279* wd:Q484652.  # Includes subclasses of international organizations
+  ?organization wdt:P2389|wdt:P2388|wdt:P488 ?position.  
+
+  OPTIONAL { ?position wdt:P1308 ?officeholder. }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+ORDER BY ?organizationLabel

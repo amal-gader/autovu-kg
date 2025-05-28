@@ -15,9 +15,8 @@ client = openai.OpenAI(
 
 
 
-with open('relations.txt', 'r') as f:
-    lines = f.readlines()
-    relations = [line.strip() for line in lines]
+with open('dict.json', 'r') as file:
+    relations = json.load(file)
     
     
     
@@ -50,7 +49,7 @@ if __name__=='__main__':
     
     relations_dict = {}
     
-    for rel in tqdm(relations, desc="Classifying relations"):
+    for rel in tqdm(relations.values(), desc="Classifying relations"):
         relations_dict[rel] = classify_relation(rel)
 
     with open("relations.dict", "w") as f:
